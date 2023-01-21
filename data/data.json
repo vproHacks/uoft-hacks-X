@@ -1,0 +1,43 @@
+{
+    {
+        "text": "What are some soccer events around me?",
+        "label": "Soccer"
+    },
+    {
+        "text": "Where can I find a list of upcoming soccer matches near me?",
+        "label": "Soccer"
+    },
+    {
+        "text": "Are there any local soccer games happening soon?",
+        "label": "Soccer"
+    },
+    {
+        "text": "Can you point me in the direction of nearby soccer tournaments or leagues?",
+        "label": "Soccer"
+    },
+    {
+        "text": "I am looking for information on soccer gatherings in my area, do you know of any?",
+        "label": "Soccer"
+    },
+    {
+        "text": "What are some basketball games or tournaments happening in my area?",
+        "label": "Basketball"
+    },
+    {
+        "text": "Can you suggest any nearby basketball matches or competitions for me to attend?",
+        "label": "Basketball"
+    },
+    {
+        "text": "Are there any basketball events happening in my vicinity that I could check out?",
+        "label": "Basketball"
+    },
+    {
+        "text": "I'm looking for a basketball event to watch, do you know of any happening near me?",
+        "label": "Basketball"
+    },
+    {
+        "text": "What are some basketball events around me?",
+        "label": "Basketball"
+    },
+    
+}
