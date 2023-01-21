@@ -10,7 +10,7 @@ We have like 10 main categories of activities:
     - Snowboarding
 - Gaming
     - Board Games
-    - Online Games
+    - Online Gameing
     - Card Games
     - Role PLaying Games
     - Puzzles
@@ -63,23 +63,4 @@ We have like 10 main categories of activities:
     - Swinger Events
     - Queer Events
 
-For each category, I want you to create a sentence / prompt that relates to some subtopic.
-Add the subtopic underneath the listed broad category:
 
-ex:
-- Sports
-    - Golf
-    - Tennis
-
-for each subtopic write some pretty pretty json sentence 5 times like this:
-
-{
-    {
-        "text": "What are some golfing events around me?",
-        "label": "Golf"
-    },
-    {
-        "text": "Where to golf",
-        "label": "Golf"
-    }
-}

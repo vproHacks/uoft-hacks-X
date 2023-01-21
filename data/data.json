@@ -1,4 +1,4 @@
-{
+[
     {
         "text": "What are some soccer events around me?",
         "label": "Soccer"
@@ -39,5 +39,964 @@
         "text": "What are some basketball events around me?",
         "label": "Basketball"
     },
-    
-}
+    {
+        "text": "What are some ice hockey games or tournaments happening in my area?",
+        "label": "Hockey"
+    },
+    {
+        "text": "Can you suggest any nearby ice hockey matches or competitions for me to attend?",
+        "label": "Hockey"
+    },
+    {
+        "text": "Are there any ice hockey matches or competitions happening in my vicinity that I could check out?",
+        "label": "Hockey"
+    },
+    {
+        "text": "I'm looking for an ice hockey match or competition to watch, do you know of any happening near me?",
+        "label": "Hockey"
+    },
+    {
+        "text": "What are some hockey events around me?",
+        "label": "Hockey"
+    },
+    {
+        "text": "What are some tennis events around me?",
+        "label": "Tennis"
+    },
+    {
+        "text": "What are some tennis games or tournaments happening in my area?",
+        "label": "Tennis"
+    },
+    {
+        "text": "Can you suggest any nearby tennis matches or competitions for me to attend?",
+        "label": "Tennis"
+    },
+    {
+        "text": "Are there any tennis events happening in my vicinity that I could check out?",
+        "label": "Tennis"
+    },
+    {
+        "text": "I'm looking for a tennis match or competition to watch, do you know of any happening near me?",
+        "label": "Tennis"
+    },
+    {
+        "text": "What are some snowboarding events around me?",
+        "label": "Snowboarding"
+    },
+    {
+        "text": "Can you tell me about upcoming snowboarding competitions in my area?",
+        "label": "Snowboarding"
+    },
+    {
+        "text": "Are there any local snowboarding tournaments happening near me?",
+        "label": "Snowboarding"
+    },
+    {
+        "text": "I am interested in attending some snowboarding events, can you recommend any in my vicinity?",
+        "label": "Snowboarding"
+    },
+    {
+        "text": "Could you provide information about snowboarding meetings taking place in my immediate location?",
+        "label": "Snowboarding"
+    },
+    {
+        "text": "What are some board game conventions or festivals happening in my area?",
+        "label": "Board Game"
+    },
+    {
+        "text": "Can you suggest any nearby board game meetups or gatherings for me to attend?",
+        "label": "Board Game"
+    },
+    {
+        "text": "Are there any board game-related events happening in my vicinity that I could check out?",
+        "label": "Board Game"
+    },
+    {
+        "text": "I'm looking for a board game event to attend, do you know of any happening near me?",
+        "label": "Board Game"
+    },
+    {
+        "text": "Are there any board game clubs or groups organizing events in my area?",
+        "label": "Board Game"
+    },
+    {
+        "text": "What are some upcoming online gaming events in my area?",
+        "label": "Online Gaming"
+    },
+    {
+        "text": "Can you tell me about any virtual gaming competitions happening near me?",
+        "label": "Online Gaming"
+    },
+    {
+        "text": "I am interested in participating in online gaming events, are there any in my vicinity?",
+        "label": "Online Gaming"
+    },
+    {
+        "text": "Could you provide information about online gaming events taking place in my immediate location?",
+        "label": "Online Gaming"
+    },
+    {
+        "text": "Are there any online gaming meetups or gatherings happening near me?",
+        "label": "Online Gaming"
+    },
+    {
+        "text": "What are some upcoming events for card games in my area?",
+        "label": "Card Game"
+    },
+    {
+        "text": "Can you tell me about any card game tournaments happening near me?",
+        "label": "Card Game"
+    },
+    {
+        "text": "I am interested in participating in card game events, are there any in my vicinity?",
+        "label": "Card Game"
+    },
+    {
+        "text": "Could you provide information about card game events taking place in my immediate location?",
+        "label": "Card Game"
+    },
+    {
+        "text": "Are there any card game meetups or gatherings happening near me?",
+        "label": "Card Game"
+    },
+    {
+        "text": "What are some role playing game events around me?",
+        "label": "Role Playing Game"
+    },
+    {
+        "text": "Can you tell me about any role playing game conventions or meetups happening near me?",
+        "label": "Role Playing Game"
+    },
+    {
+        "text": "Are there any local role playing game tournaments or competitions happening in my area?",
+        "label": "Role Playing Game"
+    },
+    {
+        "text": "I am interested in attending role playing game events, can you recommend any in my vicinity?",
+        "label": "Role Playing Game"
+    },
+    {
+        "text": "Could you provide information about role playing game events taking place in my immediate location?",
+        "label": "Role Playing Game"
+    },
+    {
+        "text": "What are some puzzle events around me?",
+        "label": "Puzzles"
+    },
+    {
+        "text": "Can you tell me about any puzzle competitions or tournaments happening near me?",
+        "label": "Puzzles"
+    },
+    {
+        "text": "Are there any local puzzle-solving events or meetups for Sudoku, crossword or Rubik's cube happening in my area?",
+        "label": "Puzzles"
+    },
+    {
+        "text": "I am interested in attending puzzle events, can you recommend any in my vicinity?",
+        "label": "Puzzles"
+    },
+    {
+        "text": "Could you provide information about Sudoku, crossword or Rubik's cube puzzle events taking place in my immediate location?",
+        "label": "Puzzles"
+    },
+    {
+        "text": "What are healthy food options around me?",
+        "label": "Healthy Food"
+    },
+    {
+        "text": "Can you tell me about any healthy food restaurants or stores near me?",
+        "label": "Healthy Food"
+    },
+    {
+        "text": "Are there any local farm-to-table or organic food options in my area?",
+        "label": "Healthy Food"
+    },
+    {
+        "text": "I am looking for healthy food options, can you recommend any in my vicinity?",
+        "label": "Healthy Food"
+    },
+    {
+        "text": "Could you provide information about healthy food options available in my immediate location?",
+        "label": "Healthy Food"
+    },
+    {
+        "text": "What are fast food options around me?",
+        "label": "Fast Food"
+    },
+    {
+        "text": "Can you tell me about any McDonald's, Burger King or KFC near me?",
+        "label": "Fast Food"
+    },
+    {
+        "text": "Are there any local drive-thru or fast food options in my area?",
+        "label": "Fast Food"
+    },
+    {
+        "text": "I am looking for fast food options, can you recommend any in my vicinity?",
+        "label": "Fast Food"
+    },
+    {
+        "text": "Could you provide information about fast food options available in my immediate location?",
+        "label": "Fast Food"
+    },
+    {
+        "text": "What are fine dine options around me?",
+        "label": "Fine Dining"
+    },
+    {
+        "text": "Can you tell me about any Michelin-starred or upscale restaurants like French Laundry or Eleven Madison Park near me?",
+        "label": "Fine Dining"
+    },
+    {
+        "text": "Are there any local high-end or fine dining options in my area?",
+        "label": "Fine Dining"
+    },
+    {
+        "text": "I am looking for fine dine options, can you recommend any in my vicinity?",
+        "label": "Fine Dining"
+    },
+    {
+        "text": "Could you provide information about upscale or fine dining options available in my immediate location?",
+        "label": "Fine Dining"
+    },
+    {
+        "text": "What are cooking classes around me?",
+        "label": "Cooking Classes"
+    },
+    {
+        "text": "Can you tell me about any Le Cordon Bleu or Culinary Institute of America affiliated cooking classes near me?",
+        "label": "Cooking Classes"
+    },
+    {
+        "text": "Are there any local cooking classes or workshops in my area?",
+        "label": "Cooking Classes"
+    },
+    {
+        "text": "I am interested in taking cooking classes, can you recommend any in my vicinity?",
+        "label": "Cooking Classes"
+    },
+    {
+        "text": "Could you provide information about cooking classes available in my immediate location?",
+        "label": "Cooking Classes"
+    },
+    {
+        "text": "What are grocery shops around me?",
+        "label": "Grocery Shops"
+    },
+    {
+        "text": "Can you tell me about any Whole Foods, Trader Joe's or Safeway near me?",
+        "label": "Grocery Shops"
+    },
+    {
+        "text": "Are there any local supermarkets or grocery stores in my area?",
+        "label": "Grocery Shops"
+    },
+    {
+        "text": "I am looking for a grocery shop, can you recommend any in my vicinity?",
+        "label": "Grocery Shops"
+    },
+    {
+        "text": "Could you provide information about grocery shops available in my immediate location?",
+        "label": "Grocery Shops"
+    },
+    {
+        "text": "What are weightlifting gyms and meets around me?",
+        "label": "Weightlifting"
+    },
+    {
+        "text": "Can you tell me about any powerlifting or Olympic weightlifting competitions or meets happening near me?",
+        "label": "Weightlifting"
+    },
+    {
+        "text": "Are there any local weightlifting gyms or clubs in my area?",
+        "label": "Weightlifting"
+    },
+    {
+        "text": "I am interested in weightlifting, can you recommend any gyms or meets in my vicinity?",
+        "label": "Weightlifting"
+    },
+    {
+        "text": "Could you provide information about weightlifting gyms and meets available in my immediate location?",
+        "label": "Weightlifting"
+    },
+    {
+        "text": "What are yoga classes around me?",
+        "label": "Yoga"
+    },
+    {
+        "text": "Can you tell me about any Bikram or Ashtanga yoga classes happening near me?",
+        "label": "Yoga"
+    },
+    {
+        "text": "Are there any local yoga studios or classes in my area?",
+        "label": "Yoga"
+    },
+    {
+        "text": "I am interested in taking yoga classes, can you recommend any in my vicinity?",
+        "label": "Yoga"
+    },
+    {
+        "text": "Could you provide information about yoga classes available in my immediate location?",
+        "label": "Yoga"
+    },
+    {
+        "text": "What are crossfit classes around me?",
+        "label": "Crossfit"
+    },
+    {
+        "text": "Can you tell me about any CrossFit affiliates or box near me?",
+        "label": "Crossfit"
+    },
+    {
+        "text": "Are there any local gyms offering crossfit classes in my area?",
+        "label": "Crossfit"
+    },
+    {
+        "text": "I am interested in taking crossfit classes, can you recommend any in my vicinity?",
+        "label": "Crossfit"
+    },
+    {
+        "text": "Could you provide information about crossfit classes available in my immediate location?",
+        "label": "Crossfit"
+    },
+    {
+        "text": "What are calisthenics classes around me?",
+        "label": "Calisthenics"
+    },
+    {
+        "text": "Can you tell me about any Street Workout or Calisthenics parks or classes happening near me?",
+        "label": "Calisthenics"
+    },
+    {
+        "text": "Are there any local gyms or parks offering calisthenics classes in my area?",
+        "label": "Calisthenics"
+    },
+    {
+        "text": "I am interested in taking calisthenics activities, can you recommend any in my vicinity?",
+        "label": "Calisthenics"
+    },
+    {
+        "text": "Could you provide information about calisthenics classes available in my immediate location?",
+        "label": "Calisthenics"
+    },
+    {
+        "text": "What are flexibility classes around me?",
+        "label": "Flexibility"
+    },
+    {
+        "text": "Can you tell me about any Yoga, Pilates or Contortion classes happening near me?",
+        "label": "Flexibility"
+    },
+    {
+        "text": "Are there any local gyms or studios offering flexibility classes in my area?",
+        "label": "Flexibility"
+    },
+    {
+        "text": "I am interested in taking flexibility activities, can you recommend any in my vicinity?",
+        "label": "Flexibility"
+    },
+    {
+        "text": "Could you provide information about flexibility classes available in my immediate location?",
+        "label": "Flexibility"
+    },
+    {
+        "text": "What are running events around me?",
+        "label": "Running"
+    },
+    {
+        "text": "Can you tell me about any marathons, half-marathons or 10k races happening near me?",
+        "label": "Running"
+    },
+    {
+        "text": "Are there any local running meetups in my area?",
+        "label": "Running"
+    },
+    {
+        "text": "I am interested in participating in running events, can you recommend any in my vicinity?",
+        "label": "Running"
+    },
+    {
+        "text": "Could you provide information about running activities available in my immediate location?",
+        "label": "Running"
+    },
+    {
+        "text": "What are cycling events around me?",
+        "label": "Cycling"
+    },
+    {
+        "text": "Can you tell me about any road races, time trials or mountain bike races happening near me?",
+        "label": "Cycling"
+    },
+    {
+        "text": "Are there any local cycling meetups in my area?",
+        "label": "Cycling"
+    },
+    {
+        "text": "I am interested in participating in cycling events, can you recommend any in my vicinity?",
+        "label": "Cycling"
+    },
+    {
+        "text": "Could you provide information about cycling activities available in my immediate location?",
+        "label": "Cycling"
+    },
+    {
+        "text": "What are hiking events around me?",
+        "label": "Hiking"
+    },
+    {
+        "text": "Can you tell me about any organized hikes, mountain climbing or backpacking trips happening near me?",
+        "label": "Hiking"
+    },
+    {
+        "text": "Are there any local hiking meetups in my area?",
+        "label": "Hiking"
+    },
+    {
+        "text": "I am interested in participating in hiking events, can you recommend any in my vicinity?",
+        "label": "Hiking"
+    },
+    {
+        "text": "Could you provide information about hiking activities available in my immediate location?",
+        "label": "Hiking"
+    },
+    {
+        "text": "What are walking events around me?",
+        "label": "Walking"
+    },
+    {
+        "text": "Can you tell me about any organized walks, charity walks or walking tours happening near me?",
+        "label": "Walking"
+    },
+    {
+        "text": "Are there any local walking competitions or meetups in my area?",
+        "label": "Walking"
+    },
+    {
+        "text": "I am interested in participating in walking activities, can you recommend any in my vicinity?",
+        "label": "Walking"
+    },
+    {
+        "text": "Could you provide information about walking events available in my immediate location?",
+        "label": "Walking"
+    },
+    {
+        "text": "What are some swimming events around me?",
+        "label": "Swimming"
+    },
+    {
+        "text": "What are some swimming opportunities around me?",
+        "label": "Swimming"
+    },
+    {
+        "text": "Are there any upcoming swimming competitions or meets in the area?",
+        "label": "Swimming"
+    },
+    {
+        "text": "Where can I find information on local swimming activities?",
+        "label": "Swimming"
+    },
+    {
+        "text": "I'm looking for swimming opportunities happening within a 50-mile radius of my location, do you know of any? like the annual lake swim",
+        "label": "Swimming"
+    },
+    {
+        "text": "What are some reading events around me?",
+        "label": "Reading"
+    },
+    {
+        "text": "What literary gatherings can I find nearby?",
+        "label": "Reading"
+    },
+    {
+        "text": "Can you tell me about any upcoming book-related events in the area?",
+        "label": "Reading"
+    },
+    {
+        "text": "Where can I find information on local reading events?",
+        "label": "Reading"
+    },
+    {
+        "text": "I'm looking for reading-related events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Reading"
+    },
+    {
+        "text": "What are some movie events around me?",
+        "label": "Movie"
+    },
+    {
+        "text": "What film-related gatherings can I find nearby?",
+        "label": "Movie"
+    },
+    {
+        "text": "Can you tell me about any upcoming cinema events in the area?",
+        "label": "Movie"
+    },
+    {
+        "text": "Where can I find information on local movie events?",
+        "label": "Movie"
+    },
+    {
+        "text": "I'm looking for movie-related events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Movie"
+    },
+    {
+        "text": "What are some podcast-related activities around me?",
+        "label": "Podcast"
+    },
+    {
+        "text": "What podcast-related gatherings can I find nearby?",
+        "label": "Podcast"
+    },
+    {
+        "text": "Can you tell me about any upcoming live recording sessions or podcast meetups in the area?",
+        "label": "Podcast"
+    },
+    {
+        "text": "Where can I find information on local podcast-related activities?",
+        "label": "Podcast"
+    },
+    {
+        "text": "I'm looking for podcast-related events within a 50-mile radius of my location, do you know of any?",
+        "label": "Podcast"
+    },
+    {
+        "text": "What are some music events around me?",
+        "label": "Music"
+    },
+    {
+        "text": "What music-related gatherings can I find nearby?",
+        "label": "Music"
+    },
+    {
+        "text": "Can you tell me about any upcoming concerts or music festivals in the area?",
+        "label": "Music"
+    },
+    {
+        "text": "Where can I find information on local music events?",
+        "label": "Music"
+    },
+    {
+        "text": "I'm looking for music-related events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Music"
+    },
+    {
+        "text": "What are some TV Show events around me?",
+        "label": "TV Show"
+    },
+    {
+        "text": "Can you tell me about any upcoming TV Show-related gatherings happening nearby? Like the Game of Thrones live screening",
+        "label": "TV Show"
+    },
+    {
+        "text": "Can you tell me about any upcoming TV Show-related events in the area?",
+        "label": "TV Show"
+    },
+    {
+        "text": "Where can I find information on local TV Show events?",
+        "label": "TV Show"
+    },
+    {
+        "text": "I'm looking for TV Show-related events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "TV Show"
+    },
+    {
+        "text": "What are some Hackathons around me?",
+        "label": "Hackathon"
+    },
+    {
+        "text": "Can you tell me about any upcoming Hackathons nearby? Like the annual AI hackathon",
+        "label": "Hackathon"
+    },
+    {
+        "text": "Where can I find information on local Hackathons?",
+        "label": "Hackathon"
+    },
+    {
+        "text": "Are there any Hackathons happening in the area?",
+        "label": "Hackathon"
+    },
+    {
+        "text": "I'm looking for Hackathons happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Hackathon"
+    },
+    {
+        "text": "What are some Science Fairs around me?",
+        "label": "Science Fair"
+    },
+    {
+        "text": "Can you tell me about any upcoming Science Fairs nearby? Like the annual regional Science Fair",
+        "label": "Science Fair"
+    },
+    {
+        "text": "Where can I find information on local Science Fairs?",
+        "label": "Science Fair"
+    },
+    {
+        "text": "Are there any Science Fairs happening in the area?",
+        "label": "Science Fair"
+    },
+    {
+        "text": "I'm looking for Science Fairs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Science Fair"
+    },
+    {
+        "text": "What are some STEM competitions around me?",
+        "label": "STEM Competition"
+    },
+    {
+        "text": "Can you tell me about any upcoming STEM competitions nearby? Like the national robotics competition",
+        "label": "STEM Competition"
+    },
+    {
+        "text": "Where can I find information on local STEM competitions?",
+        "label": "STEM Competition"
+    },
+    {
+        "text": "Are there any STEM competitions happening in the area?",
+        "label": "STEM Competition"
+    },
+    {
+        "text": "I'm looking for STEM competitions happening within a 50-mile radius of my location, do you know of any?",
+        "label": "STEM Competition"
+    },
+    {
+        "text": "What are some Robotic events around me?",
+        "label": "Robotic"
+    },
+    {
+        "text": "Can you tell me about any upcoming Robotic events nearby? Like the annual robotic expo",
+        "label": "Robotic"
+    },
+    {
+        "text": "Where can I find information on local Robotic events?",
+        "label": "Robotic"
+    },
+    {
+        "text": "Are there any Robotic events happening in the area?",
+        "label": "Robotic"
+    },
+    {
+        "text": "I'm looking for Robotic events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Robotic"
+    },
+    {
+        "text": "What are some STEM workshops around me?",
+        "label": "STEM Workshop"
+    },
+    {
+        "text": "Can you tell me about any upcoming STEM workshops nearby? Like the coding workshop for kids",
+        "label": "STEM Workshop"
+    },
+    {
+        "text": "Where can I find information on local STEM workshops?",
+        "label": "STEM Workshop"
+    },
+    {
+        "text": "Are there any STEM workshops happening in the area?",
+        "label": "STEM Workshop"
+    },
+    {
+        "text": "I'm looking for STEM workshops happening within a 50-mile radius of my location, do you know of any?",
+        "label": "STEM Workshop"
+    },
+    {
+        "text": "Give me some nightclubs around me?",
+        "label": "Nightclub"
+    },
+    {
+        "text": "Can you give me information about any upcoming nightclubs nearby? Like the rooftop lounge that opens next week",
+        "label": "Nightclub"
+    },
+    {
+        "text": "Where can I find information on local nightclubs?",
+        "label": "Nightclub"
+    },
+    {
+        "text": "Can you tell me about any nightclubs happening in the area?",
+        "label": "Nightclub"
+    },
+    {
+        "text": "I'm looking for nightclubs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Nightclub"
+    },
+    {
+        "text": "Give me some comedy clubs around me?",
+        "label": "Comedy Club"
+    },
+    {
+        "text": "Can you give me information about any upcoming comedy clubs nearby? Like the Comedy Cellar",
+        "label": "Comedy Club"
+    },
+    {
+        "text": "Where can I find information on local comedy clubs?",
+        "label": "Comedy Club"
+    },
+    {
+        "text": "Can you tell me about any comedy clubs happening in the area?",
+        "label": "Comedy Club"
+    },
+    {
+        "text": "I'm looking for comedy clubs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Comedy Club"
+    },
+    {
+        "text": "Give me some sport bars around me?",
+        "label": "Sport Bar"
+    },
+    {
+        "text": "Can you give me information about any upcoming sport bars nearby? Like the Local Legends Sports Bar",
+        "label": "Sport Bar"
+    },
+    {
+        "text": "Where can I find information on local sport bars?",
+        "label": "Sport Bar"
+    },
+    {
+        "text": "Can you tell me about any sport bars happening in the area?",
+        "label": "Sport Bar"
+    },
+    {
+        "text": "I'm looking for sport bars happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Sport Bar"
+    },
+    {
+        "text": "Give me some concerts around me?",
+        "label": "Concert"
+    },
+    {
+        "text": "Can you give me information about any upcoming concerts nearby? Like the Ed Sheeran concert next week",
+        "label": "Concert"
+    },
+    {
+        "text": "Where can I find information on local concerts?",
+        "label": "Concert"
+    },
+    {
+        "text": "Can you tell me about any concerts happening in the area?",
+        "label": "Concert"
+    },
+    {
+        "text": "I'm looking for concerts happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Concert"
+    },
+    {
+        "text": "Give me some karaoke places around me?",
+        "label": "Karaoke"
+    },
+    {
+        "text": "Can you give me information about any upcoming karaoke places nearby? Like the karaoke bar on Main Street",
+        "label": "Karaoke"
+    },
+    {
+        "text": "Where can I find information on local karaoke places?",
+        "label": "Karaoke"
+    },
+    {
+        "text": "Can you tell me about any karaoke places happening in the area?",
+        "label": "Karaoke"
+    },
+    {
+        "text": "I'm looking for karaoke places happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Karaoke"
+    },
+    {
+        "text": "Give me some museums around me?",
+        "label": "Museum"
+    },
+    {
+        "text": "Can you give me information about any upcoming museums nearby? Like the Museum of Natural History",
+        "label": "Museum"
+    },
+    {
+        "text": "Where can I find information on local museums?",
+        "label": "Museum"
+    },
+    {
+        "text": "Can you tell me about any museums happening in the area?",
+        "label": "Museum"
+    },
+    {
+        "text": "I'm looking for museums happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Museum"
+    },
+    {
+        "text": "Give me some art fairs around me?",
+        "label": "Art Fair"
+    },
+    {
+        "text": "Can you give me information about any upcoming art fairs nearby? Like the annual downtown art fair",
+        "label": "Art Fair"
+    },
+    {
+        "text": "Where can I find information on local art fairs?",
+        "label": "Art Fair"
+    },
+    {
+        "text": "Can you tell me about any art fairs happening in the area?",
+        "label": "Art Fair"
+    },
+    {
+        "text": "I'm looking for art fairs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Art Fair"
+    },
+    {
+        "text": "Give me some sculpture gardens around me?",
+        "label": "Sculpture Garden"
+    },
+    {
+        "text": "Can you give me information about any upcoming sculpture gardens nearby? Like the botanical sculpture garden",
+        "label": "Sculpture Garden"
+    },
+    {
+        "text": "Where can I find information on local sculpture gardens?",
+        "label": "Sculpture Garden"
+    },
+    {
+        "text": "Can you tell me about any sculpture gardens happening in the area?",
+        "label": "Sculpture Garden"
+    },
+    {
+        "text": "I'm looking for sculpture gardens happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Sculpture Garden"
+    },
+    {
+        "text": "Give me some photography exhibitions around me?",
+        "label": "Photography Exhibition"
+    },
+    {
+        "text": "Can you give me information about any upcoming photography exhibitions nearby? Like the annual photography showcase at the art museum",
+        "label": "Photography Exhibition"
+    },
+    {
+        "text": "Where can I find information on local photography exhibitions?",
+        "label": "Photography Exhibition"
+    },
+    {
+        "text": "Can you tell me about any photography exhibitions happening in the area?",
+        "label": "Photography Exhibition"
+    },
+    {
+        "text": "I'm looking for photography exhibitions happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Photography Exhibition"
+    },
+    {
+        "text": "Give me some film festivals around me?",
+        "label": "Film Festival"
+    },
+    {
+        "text": "Can you give me information about any upcoming film festivals nearby? Like the annual international film festival",
+        "label": "Film Festival"
+    },
+    {
+        "text": "Where can I find information on local film festivals?",
+        "label": "Film Festival"
+    },
+    {
+        "text": "Can you tell me about any film festivals happening in the area?",
+        "label": "Film Festival"
+    },
+    {
+        "text": "I'm looking for film festivals happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Film Festival"
+    },
+    {
+        "text": "Give me some drag shows around me?",
+        "label": "Drag Show"
+    },
+    {
+        "text": "Can you give me information about any upcoming drag shows nearby? Like the weekly drag show at the local LGBTQ+ venue",
+        "label": "Drag Show"
+    },
+    {
+        "text": "Where can I find information on local drag shows?",
+        "label": "Drag Show"
+    },
+    {
+        "text": "Can you tell me about any drag shows happening in the area?",
+        "label": "Drag Show"
+    },
+    {
+        "text": "I'm looking for drag shows happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Drag Show"
+    },
+    {
+        "text": "Give me some burlesque shows around me?",
+        "label": "Burlesque Show"
+    },
+    {
+        "text": "Can you give me information about any upcoming burlesque shows nearby? Like the monthly burlesque show at the local cabaret",
+        "label": "Burlesque Show"
+    },
+    {
+        "text": "Where can I find information on local burlesque shows?",
+        "label": "Burlesque Show"
+    },
+    {
+        "text": "Can you tell me about any burlesque shows happening in the area?",
+        "label": "Burlesque Show"
+    },
+    {
+        "text": "I'm looking for burlesque shows happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Burlesque Show"
+    },
+    {
+        "text": "Give me some strip clubs around me?",
+        "label": "Strip Clubs"
+    },
+    {
+        "text": "Can you give me information about any upcoming strip clubs nearby? Like the club on the edge of town",
+        "label": "Strip Clubs"
+    },
+    {
+        "text": "Where can I find information on local strip clubs?",
+        "label": "Strip Clubs"
+    },
+    {
+        "text": "Can you tell me about any strip clubs happening in the area?",
+        "label": "Strip Clubs"
+    },
+    {
+        "text": "I'm looking for strip clubs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Strip Clubs"
+    },
+    {
+        "text": "Give me some queer events around me?",
+        "label": "Queer Events"
+    },
+    {
+        "text": "Can you give me information about any upcoming queer events nearby? Like the annual LGBTQ+ pride parade",
+        "label": "Queer Events"
+    },
+    {
+        "text": "Where can I find information on local queer events?",
+        "label": "Queer Events"
+    },
+    {
+        "text": "Can you tell me about any queer events happening in the area?",
+        "label": "Queer Events"
+    },
+    {
+        "text": "I'm looking for queer events happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Queer Events"
+    },
+    {
+        "text": "Give me some swinger events happening around me?",
+        "label": "Swinger"
+    },
+    {
+        "text": "Can you give me information about any upcoming swinger events nearby?",
+        "label": "Swinger"
+    },
+    {
+        "text": "Where can I find information on local swinger events?",
+        "label": "Swinger"
+    },
+    {
+        "text": "Can you tell me about any swinger events happening in the area?",
+        "label": "Swinger"
+    },
+    {
+        "text": "I'm looking for swinger clubs happening within a 50-mile radius of my location, do you know of any?",
+        "label": "Swinger"
+    }
+]
