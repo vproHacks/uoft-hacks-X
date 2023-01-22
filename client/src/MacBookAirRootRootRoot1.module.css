@@ -1,0 +1,103 @@
+.macBookAirRootRootRoot {
+  width: 1359px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.element1 {
+  width: 1359px;
+  height: 904px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background-image: linear-gradient(
+    180deg,
+    #c8f1f5 0%,
+    #c6eff3 44%,
+    #a7e2e8 68%,
+    #b0dbe4 89%,
+    #b0dbe4 100%
+  );
+  filter: blur(0px);
+}
+.flexColumn {
+  height: 904px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/i46Zuh5zIx1lefIsXVRK.png");
+}
+.component {
+  height: 488px;
+  gap: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 73.5px 159px 73.5px 158px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/e1cLIyuZmIiBdQnRf0kj.svg");
+}
+.text1 {
+  width: 302px;
+  height: 130px;
+  margin: 0px 369px 0px 0px;
+  font-size: 100px;
+  font-family: IBM Plex Sans Condensed;
+  text-align: center;
+  white-space: nowrap;
+}
+.group1 {
+  width: 1039px;
+  height: 79.4px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: flex-start;
+  align-items: flex-start;
+  padding: 0.3px 0px 0.3px 2.3px;
+}
+.searchBarImage {
+  width: 1040px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.searchBar {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 12.7px 962px 17.7px 26.9px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/Gyu8wVeeE0KvqVTvymeL.svg");
+}
+.component1 {
+  width: 50.8px;
+  height: 47px;
+}
+.text2 {
+  width: 421px;
+  height: 39px;
+  margin: 0px 310px 0px 0px;
+  font-size: 30px;
+  font-family: IBM Plex Sans;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.limit{
+  width:200px;
+  word-wrap: break-word;
+}

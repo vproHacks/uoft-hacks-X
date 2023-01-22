@@ -1,0 +1,2306 @@
+[
+    {
+        "id": 1,
+        "name": "Ancient Egypt: The Quest for Immortality",
+        "organizer": "British Museum",
+        "start_date": "2023-03-01T10:00:00",
+        "end_date": "2023-08-31T17:00:00",
+        "description": "Explore the fascinating world of ancient Egypt through over 150 artifacts, including a replica of the tomb of Tutankhamun",
+        "tags": "Museum"
+    },
+    {
+        "id": 2,
+        "name": "The Vatican Museums",
+        "organizer": "Vatican Museums",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-12-31T17:00:00",
+        "description": "Discover the vast collection of art and artifacts at the Vatican Museums, including the Sistine Chapel and Raphael's Rooms",
+        "tags": "Museum"
+    },
+    {
+        "id": 3,
+        "name": "The Met",
+        "organizer": "The Metropolitan Museum of Art",
+        "start_date": "2023-03-01T10:00:00",
+        "end_date": "2023-12-31T17:00:00",
+        "description": "Explore over 5,000 years of art at one of the world's most famous museums, including works from ancient Egypt and Greece, European masters, and American artists",
+        "tags": "Museum"
+    },
+    {
+        "id": 4,
+        "name": "The Louvre",
+        "organizer": "Musée du Louvre",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-12-31T17:00:00",
+        "description": "Admire some of the world's most famous works of art at the Louvre, including the Mona Lisa and the Venus de Milo",
+        "tags": "Museum"
+    },
+    {
+        "id": 5,
+        "name": "The Smithsonian",
+        "organizer": "Smithsonian Institution",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-12-31T17:00:00",
+        "description": "Visit the Smithsonian, the world's largest museum and research complex, with 19 museums and galleries, the National Zoological Park and various research facilities",
+        "tags": "Museum"
+    },
+    {
+        "id": 6,
+        "name": "Art Basel Miami",
+        "organizer": "Art Basel",
+        "start_date": "2023-12-07T10:00:00",
+        "end_date": "2023-12-10T18:00:00",
+        "description": "Discover the latest trends in contemporary art at this premier art fair, featuring works by established and emerging artists",
+        "tags": "Art Fair"
+    },
+    {
+        "id": 7,
+        "name": "Frieze London",
+        "organizer": "Frieze",
+        "start_date": "2023-10-05T10:00:00",
+        "end_date": "2023-10-08T18:00:00",
+        "description": "Discover the latest trends in contemporary art at this premier art fair, featuring works by established and emerging artists from around the world",
+        "tags": "Art Fair"
+    },
+    {
+        "id": 8,
+        "name": "TEFAF",
+        "organizer": "The European Fine Art Foundation",
+        "start_date": "2023-03-09T10:00:00",
+        "end_date": "2023-03-18T18:00:00",
+        "description": "Discover the finest art, antiques and design from over 260 leading galleries at the world's leading art fair",
+        "tags": "Art Fair"
+    },
+    {
+        "id": 9,
+        "name": "Art Hong Kong",
+        "organizer": "Art Hong Kong",
+        "start_date": "2023-05-17T10:00:00",
+        "end_date": "2023-05-20T18:00:00",
+        "description": "Discover the latest trends in contemporary Asian art at this premier art fair, featuring works by established and emerging artists",
+        "tags": "Art Fair"
+    },
+    {
+        "id": 10,
+        "name": "Art Dubai",
+        "organizer": "Art Dubai",
+        "start_date": "2023-03-20T10:00:00",
+        "end_date": "2023-03-24T18:00:00",
+        "description": "Discover the latest trends in contemporary Middle Eastern art at this premier art fair, featuring works by established and emerging artists",
+        "tags": "Art Fair"
+    },
+    {
+        "id": 11,
+        "name": "Sculpture in the Garden",
+        "organizer": "Brookgreen Gardens",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-11-30T17:00:00",
+        "description": "Experience the beauty of nature combined with stunning sculptures by renowned artists at this outdoor exhibition",
+        "tags": "Sculpture Garden"
+    },
+    {
+        "id": 12,
+        "name": "Storm King Art Center",
+        "organizer": "Storm King Art Center",
+        "start_date": "2023-03-01T10:00:00",
+        "end_date": "2023-11-30T17:00:00",
+        "description": "Explore over 100 sculptures spread across 500 acres of landscaped fields, hills, and woodlands",
+        "tags": "Sculpture Garden"
+    },
+    {
+        "id": 13,
+        "name": "Jardin des sculptures de Château de Versailles",
+        "organizer": "Château de Versailles",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-11-30T17:00:00",
+        "description": "Discover the history of French sculpture in the gardens of the famous Palace of Versailles",
+        "tags": "Sculpture Garden"
+    },
+    {
+        "id": 14,
+        "name": "Sculpture Park at deCordova",
+        "organizer": "deCordova Sculpture Park and Museum",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-11-30T17:00:00",
+        "description": "Explore over 60 sculptures by contemporary artists in a natural setting on the museum's 30-acre campus",
+        "tags": "Sculpture Garden"
+    },
+    {
+        "id": 15,
+        "name": "Sculpture Walk",
+        "organizer": "Sculpture Walk",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-11-30T17:00:00",
+        "description": "Discover the work of local and international sculptors in a unique outdoor setting",
+        "tags": "Sculpture Garden"
+    },
+    {
+        "id": 16,
+        "name": "National Geographic Photo Ark",
+        "organizer": "National Geographic",
+        "start_date": "2023-06-01T09:00:00",
+        "end_date": "2023-09-30T17:00:00",
+        "description": "View powerful images of endangered species captured by National Geographic photographer Joel Sartore",
+        "tags": "Photography exhibition"
+    },
+    {
+        "id": 17,
+        "name": "Ansel Adams at 100",
+        "organizer": "Museum of Photography",
+        "start_date": "2023-02-01T10:00:00",
+        "end_date": "2023-05-31T17:00:00",
+        "description": "Celebrate the 100th anniversary of Ansel Adams' birth with this retrospective of his iconic black-and-white photographs",
+        "tags": "Photography exhibition"
+    },
+    {
+        "id": 18,
+        "name": "Magnum Contact Sheets",
+        "organizer": "International Center of Photography",
+        "start_date": "2023-07-01T10:00:00",
+        "end_date": "2023-10-31T17:00:00",
+        "description": "See the creative process behind some of the most iconic photographs of the 20th century through the original contact sheets from Magnum photographers",
+        "tags": "Photography exhibition"
+    },
+    {
+        "id": 19,
+        "name": "Women in Photography",
+        "organizer": "The Photographers' Gallery",
+        "start_date": "2023-09-01T10:00:00",
+        "end_date": "2023-12-31T17:00:00",
+        "description": "Discover the work of female photographers from the 19th century to the present, highlighting their contributions to the medium",
+        "tags": "Photography exhibition"
+    },
+    {
+        "id": 20,
+        "name": "Street Photography Now",
+        "organizer": "Tate Modern",
+        "start_date": "2023-04-01T10:00:00",
+        "end_date": "2023-07-31T17:00:00",
+        "description": "Explore the dynamic world of contemporary street photography, featuring works by established and emerging photographers",
+        "tags": "Photography exhibition"
+    },
+    {
+        "id": 21,
+        "name": "Cannes Film Festival",
+        "organizer": "Festival de Cannes",
+        "start_date": "2023-05-17T09:00:00",
+        "end_date": "2023-05-28T17:00:00",
+        "description": "Attend the premier international film festival, featuring a selection of the best films from around the world",
+        "tags": "Film festival"
+    },
+    {
+        "id": 22,
+        "name": "Sundance Film Festival",
+        "organizer": "Sundance Institute",
+        "start_date": "2023-01-19T09:00:00",
+        "end_date": "2023-01-29T17:00:00",
+        "description": "Discover the latest trends in independent filmmaking at the premier festival for American and international independent film",
+        "tags": "Film festival"
+    },
+    {
+        "id": 23,
+        "name": "Toronto International Film Festival",
+        "organizer": "Toronto International Film Festival",
+        "start_date": "2023-09-07T09:00:00",
+        "end_date": "2023-09-17T17:00:00",
+        "description": "Discover the latest trends in international and Canadian filmmaking at one of the most prestigious film festivals in the world",
+        "tags": "Film festival"
+    },
+    {
+        "id": 24,
+        "name": "Berlin International Film Festival",
+        "organizer": "Berlin International Film Festival",
+        "start_date": "2023-02-09T09:00:00",
+        "end_date": "2023-02-19T17:00:00",
+        "description": "Discover the latest trends in international and European filmmaking at one of the most respected film festivals in the world, also known as Berlinale.",
+        "tags": "Film festival"
+    },
+    {
+        "id": 25,
+        "name": "Venice International Film Festival",
+        "organizer": "La Biennale di Venezia",
+        "start_date": "2023-08-30T09:00:00",
+        "end_date": "2023-09-09T17:00:00",
+        "description": "Discover the latest trends in international filmmaking and attend one of the oldest film festivals in the world held annually at the Venice Lido.",
+        "tags": "Film festival"
+    },
+    {
+        "id": 26,
+        "name": "Basketball League Finals",
+        "organizer": "City Parks and Recreation",
+        "start_date": "2023-05-01T19:00:00",
+        "end_date": "2023-05-01T21:00:00",
+        "description": "Come watch the best teams in the city compete for the championship title.",
+        "tags": "Basketball"
+    },
+    {
+        "id": 27,
+        "name": "3 on 3 Basketball Tournament",
+        "organizer": "YMCA",
+        "start_date": "2023-06-15T09:00:00",
+        "end_date": "2023-06-15T17:00:00",
+        "description": "Join us for a day of competitive 3 on 3 basketball action. Prizes for the top teams.",
+        "tags": "Basketball"
+    },
+    {
+        "id": 28,
+        "name": "Basketball Skills Clinic",
+        "organizer": "High School Basketball Coach",
+        "start_date": "2023-07-20T18:00:00",
+        "end_date": "2023-07-20T20:00:00",
+        "description": "Improve your basketball skills with guidance from experienced coaches.",
+        "tags": "Basketball"
+    },
+    {
+        "id": 29,
+        "name": "Pick-up Basketball at the Park",
+        "organizer": "Basketball Enthusiasts",
+        "start_date": "2023-08-10T09:00:00",
+        "end_date": "2023-08-10T11:00:00",
+        "description": "Come play pick-up basketball with a group of friendly players at the local park.",
+        "tags": "Basketball"
+    },
+    {
+        "id": 30,
+        "name": "Basketball Movie Night",
+        "organizer": "Basketball Fans",
+        "start_date": "2023-09-15T19:00:00",
+        "end_date": "2023-09-15T21:00:00",
+        "description": "Watch a classic basketball movie and discuss with fellow fans.",
+        "tags": "Basketball"
+    },
+    {
+        "id": 31,
+        "name": "Soccer Championship Game",
+        "organizer": "Adult Soccer League",
+        "start_date": "2023-05-05T19:00:00",
+        "end_date": "2023-05-05T21:00:00",
+        "description": "Come watch the top teams in the league compete for the championship title.",
+        "tags": "Soccer"
+    },
+    {
+        "id": 32,
+        "name": "Soccer Skills Clinic",
+        "organizer": "Professional Soccer Coach",
+        "start_date": "2023-06-25T09:00:00",
+        "end_date": "2023-06-25T11:00:00",
+        "description": "Improve your soccer skills with guidance from experienced coaches.",
+        "tags": "Soccer"
+    },
+    {
+        "id": 33,
+        "name": "Pick-up Soccer at the Field",
+        "organizer": "Soccer Enthusiasts",
+        "start_date": "2023-07-20T18:00:00",
+        "end_date": "2023-07-20T20:00:00",
+        "description": "Come play pick-up soccer with a group of friendly players at the local field.",
+        "tags": "Soccer"
+    },
+    {
+        "id": 34,
+        "name": "Soccer World Cup Viewing Party",
+        "organizer": "Soccer Fans",
+        "start_date": "2023-09-10T09:00:00",
+        "end_date": "2023-09-10T11:00:00",
+        "description": "Watch the Soccer World Cup with fellow fans and cheer on your favorite team.",
+        "tags": "Soccer"
+    },
+    {
+        "id": 35,
+        "name": "Soccer Coaching for Kids",
+        "organizer": "Youth Soccer Program",
+        "start_date": "2023-10-01T15:00:00",
+        "end_date": "2023-10-01T17:00:00",
+        "description": "Learn the fundamentals of soccer and improve your skills with experienced coaches.",
+        "tags": "Soccer"
+    },
+    {
+        "id": 36,
+        "name": "Hockey Game Night",
+        "organizer": "Hockey Fans",
+        "start_date": "2023-01-29T19:00:00",
+        "end_date": "2023-01-29T21:00:00",
+        "description": "Watch a live hockey game with fellow fans.",
+        "tags": "Hockey"
+    },
+    {
+        "id": 37,
+        "name": "Hockey Skills Clinic",
+        "organizer": "Professional Hockey Coach",
+        "start_date": "2023-02-20T09:00:00",
+        "end_date": "2023-02-20T11:00:00",
+        "description": "Improve your hockey skills with guidance from experienced coaches.",
+        "tags": "Hockey"
+    },
+    {
+        "id": 38,
+        "name": "Pick-up Hockey at the Rink",
+        "organizer": "Hockey Enthusiasts",
+        "start_date": "2023-03-15T19:00:00",
+        "end_date": "2023-03-15T21:00:00",
+        "description": "Come play pick-up hockey with a group of friendly players at the local rink.",
+        "tags": "Hockey"
+    },
+    {
+        "id": 39,
+        "name": "Hockey Movie Night",
+        "organizer": "Hockey Fans",
+        "start_date": "2023-04-10T19:00:00",
+        "end_date": "2023-04-10T21:00:00",
+        "description": "Watch a classic hockey movie and discuss with fellow fans.",
+        "tags": "Hockey"
+    },
+    {
+        "id": 40,
+        "name": "Tennis Tournament",
+        "organizer": "Tennis Club",
+        "start_date": "2023-05-01T09:00:00",
+        "end_date": "2023-05-01T17:00:00",
+        "description": "Join us for a day of competitive tennis action. Prizes for the top players.",
+        "tags": "Tennis"
+    },
+    {
+        "id": 41,
+        "name": "Tennis Skills Clinic",
+        "organizer": "Professional Tennis Coach",
+        "start_date": "2023-06-15T09:00:00",
+        "end_date": "2023-06-15T11:00:00",
+        "description": "Improve your tennis skills with guidance from experienced coaches.",
+        "tags": "Tennis"
+    },
+    {
+        "id": 42,
+        "name": "Pick-up Tennis at the Court",
+        "organizer": "Tennis Enthusiasts",
+        "start_date": "2023-07-20T18:00:00",
+        "end_date": "2023-07-20T20:00:00",
+        "description": "Come play pick-up tennis with a group of friendly players at the local court.",
+        "tags": "Tennis"
+    },
+    {
+        "id": 43,
+        "name": "Tennis Movie Night",
+        "organizer": "Tennis Fans",
+        "start_date": "2023-08-10T19:00:00",
+        "end_date": "2023-08-10T21:00:00",
+        "description": "Watch a classic tennis movie and discuss with fellow fans.",
+        "tags": "Tennis"
+    },
+    {
+        "id": 44,
+        "name": "Tennis Coaching for Kids",
+        "organizer": "Youth Tennis Program",
+        "start_date": "2023-09-01T15:00:00",
+        "end_date": "2023-09-01T17:00:00",
+        "description": "Learn the fundamentals of tennis and improve your skills with experienced coaches.",
+        "tags": "Tennis"
+    },
+    {
+        "id": 45,
+        "name": "Snowboarding Trip",
+        "organizer": "Snowboarding Club",
+        "start_date": "2023-10-15T09:00:00",
+        "end_date": "2023-10-18T17:00:00",
+        "description": "Join us for a weekend of snowboarding at a nearby mountain.",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 46,
+        "name": "Snowboarding Skills Clinic",
+        "organizer": "Professional Snowboarding Coach",
+        "start_date": "2023-11-20T09:00:00",
+        "end_date": "2023-11-20T11:00:00",
+        "description": "Improve your snowboarding skills with guidance from experienced coaches.",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 47,
+        "name": "Snowboarding Movie Night",
+        "organizer": "Snowboarding Fans",
+        "start_date": "2023-12-10T19:00:00",
+        "end_date": "2023-12-10T21:00:00",
+        "description": "Watch a classic snowboarding movie and discuss with fellow fans.",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 48,
+        "name": "Snowboarding Coaching for Kids",
+        "organizer": "Youth Snowboarding Program",
+        "start_date": "2024-01-01T15:00:00",
+        "end_date": "2024-01-01T17:00:00",
+        "description": "Learn the fundamentals of snowboarding and improve your skills with experienced coaches.",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 49,
+        "name": "Snowboarding Trip",
+        "organizer": "Snowboarding Club",
+        "start_date": "2024-02-15T09:00:00",
+        "end_date": "2024-02-18T17:00:00",
+        "description": "Join us for a weekend of snowboarding at a nearby mountain.",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 50,
+        "name": "Family Snowboarding Week Lessons",
+        "organizer": "Snowy Hills Hotel",
+        "start_date": "2022-12-22T09:00:00",
+        "end_date": "2022-12-29T17:00:00",
+        "description": "Learn some Snowboarding with your family this holiday season at your favourite Snowy Hills Hotel!",
+        "tags": "Snowboarding"
+    },
+    {
+        "id": 51,
+        "name": "RuPaul's Drag Race Live",
+        "organizer": "Voss Events",
+        "start_date": "2022-05-01T00:00:00",
+        "end_date": "2022-05-31T23:59:59",
+        "description": "Catch your favorite drag queens from RuPaul's Drag Race live on stage in an electrifying show",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 52,
+        "name": "Burlesque Extravaganza",
+        "organizer": "Saucy Lady Productions",
+        "start_date": "2022-06-15T00:00:00",
+        "end_date": "2022-06-20T23:59:59",
+        "description": "A tantalizing showcase of classic burlesque performances",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 53,
+        "name": "Strip Club Comedy Night",
+        "organizer": "The Comedy Cellar",
+        "start_date": "2022-07-10T00:00:00",
+        "end_date": "2022-07-10T23:59:59",
+        "description": "Stand-up comedy in a strip club setting",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 54,
+        "name": "Swingers Masquerade Ball",
+        "organizer": "The Velvet Society",
+        "start_date": "2022-08-01T00:00:00",
+        "end_date": "2022-08-01T23:59:59",
+        "description": "An elegant and sensual event for the open-minded",
+        "tags": "Swinger"
+    },
+    {
+        "id": 55,
+        "name": "Pride Parade Afterparty",
+        "organizer": "Rainbow City",
+        "start_date": "2022-09-25T00:00:00",
+        "end_date": "2022-09-25T23:59:59",
+        "description": "Join the celebration of diversity and inclusion at the official afterparty of the Pride Parade",
+        "tags": "Queer Events"
+    },
+    {
+        "id": 56,
+        "name": "Drag Queen Bingo",
+        "organizer": "The Glamazons",
+        "start_date": "2022-10-01T00:00:00",
+        "end_date": "2022-10-31T23:59:59",
+        "description": "Play bingo with a twist as drag queens host the games",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 57,
+        "name": "The Burlesque Revue",
+        "organizer": "The Peacock Palace",
+        "start_date": "2022-11-01T00:00:00",
+        "end_date": "2022-11-30T23:59:59",
+        "description": "A nostalgic and glamorous burlesque show featuring a cast of seasoned performers",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 58,
+        "name": "Strip Club Karaoke",
+        "organizer": "The Pink Pussycat",
+        "start_date": "2022-12-01T00:00:00",
+        "end_date": "2022-12-31T23:59:59",
+        "description": "Sing your heart out while enjoying a drink and the company of exotic dancers",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 59,
+        "name": "Swingers Ski Trip",
+        "organizer": "The Ski Bunnies",
+        "start_date": "2023-01-01T00:00:00",
+        "end_date": "2023-01-07T23:59:59",
+        "description": "Hit the slopes and mingle with like-minded individuals at a swinger-friendly ski resort",
+        "tags": "Swinger"
+    },
+    {
+        "id": 60,
+        "name": "Queer Dance Party",
+        "organizer": "The Rainbow Warriors",
+        "start_date": "2023-02-01T00:00:00",
+        "end_date": "2023-02-28T23:59:59",
+        "description": "Dance the night away at an inclusive event for the LGBTQ+ community",
+        "tags": "Queer Events"
+    },
+    {
+        "id": 61,
+        "name": "Club X",
+        "organizer": "Club X Inc.",
+        "start_date": "2023-03-01T22:00:00",
+        "end_date": "2023-03-02T04:00:00",
+        "description": "Experience the best in electronic dance music and cutting-edge lighting and sound at Club X",
+        "tags": "Nightclub"
+    },
+    {
+        "id": 62,
+        "name": "The Rave",
+        "organizer": "The Rave LLC",
+        "start_date": "2023-04-15T22:00:00",
+        "end_date": "2023-04-16T04:00:00",
+        "description": "Join the party at The Rave, featuring top DJs and a state-of-the-art sound and lighting system",
+        "tags": "Nightclub"
+    },
+    {
+        "id": 63,
+        "name": "VIP Nightclub",
+        "organizer": "VIP Nightclub Corp.",
+        "start_date": "2023-05-20T22:00:00",
+        "end_date": "2023-05-21T04:00:00",
+        "description": "Enjoy VIP treatment and top-notch entertainment at one of the city's most exclusive nightclubs",
+        "tags": "Nightclub"
+    },
+    {
+        "id": 64,
+        "name": "The Underground",
+        "organizer": "The Underground LLC",
+        "start_date": "2023-06-30T22:00:00",
+        "end_date": "2023-07-01T04:00:00",
+        "description": "Dance to the latest beats at The Underground, featuring underground DJs and a trendy crowd",
+        "tags": "Nightclub"
+    },
+    {
+        "id": 65,
+        "name": "The Club",
+        "organizer": "The Club Inc.",
+        "start_date": "2023-08-12T22:00:00",
+        "end_date": "2023-08-13T04:00:00",
+        "description": "Experience the best in live music and entertainment at The Club, featuring top-notch sound and lighting",
+        "tags": "Nightclub"
+    },
+    {
+        "id": 66,
+        "name": "The Laugh Factory",
+        "organizer": "The Laugh Factory LLC",
+        "start_date": "2023-02-15T20:00:00",
+        "end_date": "2023-02-15T22:00:00",
+        "description": "See the best in stand-up comedy at the famous Laugh Factory, featuring a rotating lineup of top comedians",
+        "tags": "Comedy Club"
+    },
+    {
+        "id": 67,
+        "name": "The Comedy Cellar",
+        "organizer": "The Comedy Cellar LLC",
+        "start_date": "2023-03-20T20:00:00",
+        "end_date": "2023-03-20T22:00:00",
+        "description": "Experience the best in stand-up comedy at the legendary Comedy Cellar, featuring a mix of established and up-and-coming comedians",
+        "tags": "Comedy Club"
+    },
+    {
+        "id": 68,
+        "name": "The Comedy Store",
+        "organizer": "The Comedy Store LLC",
+        "start_date": "2023-04-10T20:00:00",
+        "end_date": "2023-04-10T22:00:00",
+        "description": "See a diverse lineup of comedians at the iconic Comedy Store, featuring both established and up-and-coming talent",
+        "tags": "Comedy Club"
+    },
+    {
+        "id": 69,
+        "name": "Improv Comedy Club",
+        "organizer": "Improv Comedy Club LLC",
+        "start_date": "2023-05-05T20:00:00",
+        "end_date": "2023-05-05T22:00:00",
+        "description": "Experience the best in improvisational comedy at the famous Improv Comedy Club",
+        "tags": "Comedy Club"
+    },
+    {
+        "id": 70,
+        "name": "The Stand Comedy Club",
+        "organizer": "The Stand Comedy Club LLC",
+        "start_date": "2023-06-15T20:00:00",
+        "end_date": "2023-06-15T22:00:00",
+        "description": "See the best in stand-up comedy at The Stand Comedy Club, featuring a diverse lineup of comedians",
+        "tags": "Comedy Club"
+    },
+    {
+        "id": 71,
+        "name": "The Sports Bar",
+        "organizer": "The Sports Bar LLC",
+        "start_date": "2023-01-01T16:00:00",
+        "end_date": "2023-01-01T23:00:00",
+        "description": "Catch all the latest sports action on multiple TVs at The Sports Bar, featuring a wide selection of beers on tap",
+        "tags": "Sport Bar"
+    },
+    {
+        "id": 72,
+        "name": "The Game",
+        "organizer": "The Game LLC",
+        "start_date": "2023-02-15T16:00:00",
+        "end_date": "2023-02-15T23:00:00",
+        "description": "Watch live sports on multiple big screens at The Game, featuring a wide selection of beers and pub food",
+        "tags": "Sport Bar"
+    },
+    {
+        "id": 73,
+        "name": "The Dugout",
+        "organizer": "The Dugout LLC",
+        "start_date": "2023-03-20T16:00:00",
+        "end_date": "2023-03-20T23:00:00",
+        "description": "Join the crowd to watch the big game at The Dugout, a sports bar with a lively atmosphere",
+        "tags": "Sport Bar"
+    },
+    {
+        "id": 74,
+        "name": "The Penalty Box",
+        "organizer": "The Penalty Box LLC",
+        "start_date": "2023-04-10T16:00:00",
+        "end_date": "2023-04-10T23:00:00",
+        "description": "Cheer for your team at The Penalty Box, a sports bar with great food and drinks",
+        "tags": "Sport Bar"
+    },
+    {
+        "id": 75,
+        "name": "The Field",
+        "organizer": "The Field LLC",
+        "start_date": "2023-05-05T16:00:00",
+        "end_date": "2023-05-05T23:00:00",
+        "description": "Watch live sports on big screens and enjoy great food and drinks at The Field",
+        "tags": "Sport Bar"
+    },
+    {
+        "id": 76,
+        "name": "The Arena",
+        "organizer": "The Arena LLC",
+        "start_date": "2023-06-15T19:00:00",
+        "end_date": "2023-06-15T22:00:00",
+        "description": "See top musicians live in concert at The Arena, a state-of-the-art concert venue",
+        "tags": "Concert"
+    },
+    {
+        "id": 77,
+        "name": "The Theater",
+        "organizer": "The Theater LLC",
+        "start_date": "2023-07-01T19:00:00",
+        "end_date": "2023-07-01T22:00:00",
+        "description": "Experience live music in an intimate setting at The Theater, featuring a diverse lineup of musicians",
+        "tags": "Concert"
+    },
+    {
+        "id": 78,
+        "name": "The Amphitheater",
+        "organizer": "The Amphitheater LLC",
+        "start_date": "2023-08-12T19:00",
+        "end_date": "2023-08-13T22:00",
+        "description": "World record music being shown in a hub of capitalism and innovation with a unique cast of country music",
+        "tags": "Concert"
+    },
+    {
+        "id": 79,
+        "name": "The Park",
+        "organizer": "The Park LLC",
+        "start_date": "2023-09-01T19:00:00",
+        "end_date": "2023-09-01T22:00:00",
+        "description": "Enjoy live music under the stars at The Park, featuring a diverse lineup of musicians",
+        "tags": "Concert"
+    },
+    {
+        "id": 80,
+        "name": "The Hall",
+        "organizer": "The Hall LLC",
+        "start_date": "2023-10-15T19:00:00",
+        "end_date": "2023-10-15T22:00:00",
+        "description": "Hear the best in live music at The Hall, a historic concert venue",
+        "tags": "Concert"
+    },
+    {
+        "id": 81,
+        "name": "The Mic",
+        "organizer": "The Mic LLC",
+        "start_date": "2023-11-05T20:00:00",
+        "end_date": "2023-11-05T23:00:00",
+        "description": "Sing your heart out at The Mic, a karaoke bar with a great selection of songs and a supportive crowd",
+        "tags": "Karaoke"
+    },
+    {
+        "id": 82,
+        "name": "The Stage",
+        "organizer": "The Stage LLC",
+        "start_date": "2023-12-01T20:00:00",
+        "end_date": "2023-12-01T23:00:00",
+        "description": "Perform in front of a live audience at The Stage, a karaoke bar with a state-of-the-art sound system",
+        "tags": "Karaoke"
+    },
+    {
+        "id": 83,
+        "name": "The Sound",
+        "organizer": "The Sound LLC",
+        "start_date": "2024-01-15T20:00:00",
+        "end_date": "2024-01-15T23:00:00",
+        "description": "Sing along to your favorite songs at The Sound, a karaoke bar with a fun atmosphere",
+        "tags": "Karaoke"
+    },
+    {
+        "id": 84,
+        "name": "The Voice",
+        "organizer": "The Voice LLC",
+        "start_date": "2024-02-10T20:00:00",
+        "end_date": "2024-02-10T23:00:00",
+        "description": "Sing your heart out and show off your talents at The Voice, a karaoke bar with a supportive crowd",
+        "tags": "Karaoke"
+    },
+    {
+        "id": 85,
+        "name": "The Song",
+        "organizer": "The Song LLC",
+        "start_date": "2024-03-05T20:00:00",
+        "end_date": "2024-03-05T23:00:00",
+        "description": "Sing along to your favorite songs at The Song, a karaoke bar with a wide selection of songs",
+        "tags": "Karaoke"
+    },
+    {
+        "id": 86,
+        "name": "Code-a-thon",
+        "organizer": "Code-a-thon Inc.",
+        "start_date": "2023-04-01T09:00:00",
+        "end_date": "2023-04-03T17:00:00",
+        "description": "Join the Code-a-thon and put your coding skills to the test against top competitors",
+        "tags": "Hackathon"
+    },
+    {
+        "id": 87,
+        "name": "Hack the Future",
+        "organizer": "Hack the Future Inc.",
+        "start_date": "2023-05-15T09:00:00",
+        "end_date": "2023-05-17T17:00:00",
+        "description": "Be part of the Hack the Future event and help shape the future of technology",
+        "tags": "Hackathon"
+    },
+    {
+        "id": 88,
+        "name": "Innovateathon",
+        "organizer": "Innovateathon Inc.",
+        "start_date": "2023-06-01T09:00:00",
+        "end_date": "2023-06-03T17:00:00",
+        "description": "Join the Innovateathon and brainstorm new ideas with a team of like-minded individuals",
+        "tags": "Hackathon"
+    },
+    {
+        "id": 89,
+        "name": "Science Fair",
+        "organizer": "Science Fair Inc.",
+        "start_date": "2023-07-01T09:00:00",
+        "end_date": "2023-07-03T17:00:00",
+        "description": "Join the Science Fair and showcase your scientific research and discoveries",
+        "tags": "Science Fair"
+    },
+    {
+        "id": 90,
+        "name": "STEM Fest",
+        "organizer": "STEM Fest Inc.",
+        "start_date": "2023-08-15T09:00:00",
+        "end_date": "2023-08-17T17:00:00",
+        "description": "Be part of the STEM Fest and explore the latest advancements in science, technology, engineering and math",
+        "tags": "Science Fair"
+    },
+    {
+        "id": 91,
+        "name": "Innovate Expo",
+        "organizer": "Innovate Expo Inc.",
+        "start_date": "2023-09-01T09:00:00",
+        "end_date": "2023-09-03T17:00:00",
+        "description": "Join the Innovate Expo and discover new and exciting innovations in science and technology",
+        "tags": "Science Fair"
+    },
+    {
+        "id": 92,
+        "name": "Robotics Challenge",
+        "organizer": "Robotics Challenge Inc.",
+        "start_date": "2023-10-01T09:00:00",
+        "end_date": "2023-10-03T17:00:00",
+        "description": "Join the Robotics Challenge and showcase your skills in designing and programming robots",
+        "tags": "STEM Competition"
+    },
+    {
+        "id": 93,
+        "name": "STEM Olympics",
+        "organizer": "STEM Olympics Inc.",
+        "start_date": "2023-11-01T09:00:00",
+        "end_date": "2023-11-03T17:00:00",
+        "description": "Join the STEM Olympics and compete against top students in science, technology, engineering, and math",
+        "tags": "STEM Competition"
+    },
+    {
+        "id": 94,
+        "name": "Tech Challenge",
+        "organizer": "Tech Challenge Inc.",
+        "start_date": "2023-12-01T09:00:00",
+        "end_date": "2023-12-03T17:00:00",
+        "description": "Join the Tech Challenge and showcase your skills in coding, web development, and computer engineering",
+        "tags": "STEM Competition"
+    },
+    {
+        "id": 95,
+        "name": "Robo Expo",
+        "organizer": "Robo Expo Inc.",
+        "start_date": "2024-01-01T09:00:00",
+        "end_date": "2024-01-03T17:00:00",
+        "description": "Join the Robo Expo and explore the latest advancements in robotics and AI",
+        "tags": "Robotic"
+    },
+    {
+        "id": 96,
+        "name": "Robo Summit",
+        "organizer": "Robo Summit Inc.",
+        "start_date": "2024-02-01T09:00:00",
+        "end_date": "2024-02-03T17:00:00",
+        "description": "Join the Robo Summit and learn from industry leaders in the field of robotics",
+        "tags": "Robotic"
+    },
+    {
+        "id": 97,
+        "name": "RoboCon",
+        "organizer": "RoboCon Inc.",
+        "start_date": "2024-03-01T09:00:00",
+        "end_date": "2024-03-03T17:00:00",
+        "description": "Join the RoboCon and discover new and exciting innovations in robotics",
+        "tags": "Robotic"
+    },
+    {
+        "id": 98,
+        "name": "STEM Workshop",
+        "organizer": "STEM Workshop Inc.",
+        "start_date": "2024-04-01T09:00:00",
+        "end_date": "2024-04-03T17:00:00",
+        "description": "Join the STEM Workshop and learn about the latest advancements in science, technology, engineering, and math",
+        "tags": "STEM Workshop"
+    },
+    {
+        "id": 99,
+        "name": "Tech Workshop",
+        "organizer": "Tech Workshop Inc.",
+        "start_date": "2024-05-01T09:00:00",
+        "end_date": "2024-05-03T17:00:00",
+        "description": "Join the Tech Workshop and learn about the latest technologies and how to use them",
+        "tags": "STEM Workshop"
+    },
+    {
+        "id": 100,
+        "name": "Innovate Workshop",
+        "organizer": "Innovate Workshop Inc.",
+        "start_date": "2024-06-01T09:00:00",
+        "end_date": "2024-06-03T17:00:00",
+        "description": "Join the Innovate Workshop and learn about new and emerging technologies and how to apply them",
+        "tags": "STEM Workshop"
+    },
+    {
+        "id": 101,
+        "name": "Robotics Workshop",
+        "organizer": "Robotics Workshop Inc.",
+        "start_date": "2024-07-01T09:00:00",
+        "end_date": "2024-07-03T17:00:00",
+        "description": "Join the Robotics Workshop and learn about robotics and programming robots",
+        "tags": "STEM Workshop"
+    },
+    {
+        "id": 102,
+        "name": "AI Workshop",
+        "organizer": "AI Workshop Inc.",
+        "start_date": "2024-08-01T09:00:00",
+        "end_date": "2024-08-03T17:00:00",
+        "description": "Join the AI Workshop and learn about the latest advancements in artificial intelligence and machine learning",
+        "tags": "STEM Workshop"
+    },
+    {
+        "id": 103,
+        "name": "Robotics Bootcamp",
+        "organizer": "Robotics Bootcamp Inc.",
+        "start_date": "2024-09-01T09:00:00",
+        "end_date": "2024-09-03T17:00:00",
+        "description": "Join the Robotics Bootcamp and learn the basics of robotics and programming robots",
+        "tags": "Robotic"
+    },
+    {
+        "id": 104,
+        "name": "Robotics Symposium",
+        "organizer": "Robotics Symposium Inc.",
+        "start_date": "2024-10-01T09:00:00",
+        "end_date": "2024-10-03T17:00:00",
+        "description": "Join the Robotics Symposium and hear from industry leaders and experts in the field of robotics",
+        "tags": "Robotic"
+    },
+    {
+        "id": 105,
+        "name": "Build the STEM Patriarchy away",
+        "organizer": "Hackher & Co.",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-03-03T17:00:00",
+        "description": "Join this fun build competition where we create a method to fight against the Patriarchy in STEM!",
+        "tags": "STEM Competition"
+    },
+    {
+        "id": 106,
+        "name": "STEM Competition",
+        "organizer": "STEM Competition Inc.",
+        "start_date": "2024-12-01T09:00:00",
+        "end_date": "2024-12-03T17:00:00",
+        "description": "Join the STEM Competition and showcase your skills in science, technology, engineering and math disciplines",
+        "tags": "STEM Competition"
+    },
+    {
+        "id": 107,
+        "name": "Codeathon",
+        "organizer": "Codeathon Inc.",
+        "start_date": "2025-01-01T09:00:00",
+        "end_date": "2025-01-03T17:00:00",
+        "description": "Join the Codeathon and showcase your coding skills in a competitive and fun environment",
+        "tags": "Hackathon"
+    },
+    {
+        "id": 108,
+        "name": "DataHack",
+        "organizer": "DataHack Inc.",
+        "start_date": "2025-02-01T09:00:00",
+        "end_date": "2025-02-03T17:00:00",
+        "description": "Join the DataHack and explore new and exciting ways to use data to solve problems",
+        "tags": "Hackathon"
+    },
+    {
+        "id": 109,
+        "name": "Science Expo",
+        "organizer": "Science Expo Inc.",
+        "start_date": "2025-03-01T09:00:00",
+        "end_date": "2025-03-03T17:00:00",
+        "description": "Join the Science Expo and explore the latest advancements in science and technology",
+        "tags": "Science Fair"
+    },
+    {
+        "id": 110,
+        "name": "Science Fair",
+        "organizer": "Science Fair Inc.",
+        "start_date": "2025-04-01T09:00:00",
+        "end_date": "2025-04-03T17:00:00",
+        "description": "Join the Science Fair and showcase your projects and findings in science and technology",
+        "tags": "Science Fair"
+    },
+    {
+        "id": 111,
+        "name": "Book Club",
+        "organizer": "Book Club Inc.",
+        "start_date": "2023-01-21T09:00:00",
+        "end_date": "2023-01-21T17:00:00",
+        "description": "Join the Book Club and discuss the latest best-sellers",
+        "tags": "Reading"
+    },
+    {
+        "id": 112,
+        "name": "Poetry Reading",
+        "organizer": "Poetry Reading Inc.",
+        "start_date": "2023-02-21T09:00:00",
+        "end_date": "2023-02-21T17:00:00",
+        "description": "Join the Poetry Reading and listen to the latest poetry from local poets",
+        "tags": "Reading"
+    },
+    {
+        "id": 113,
+        "name": "Comic Con",
+        "organizer": "Comic Con Inc.",
+        "start_date": "2023-03-21T09:00:00",
+        "end_date": "2023-03-21T17:00:00",
+        "description": "Join the Comic Con and explore the world of comics and graphic novels",
+        "tags": "Reading"
+    },
+    {
+        "id": 114,
+        "name": "Book Signing",
+        "organizer": "Book Signing Inc.",
+        "start_date": "2023-04-21T09:00:00",
+        "end_date": "2023-04-21T17:00:00",
+        "description": "Join the Book Signing and meet your favorite authors and get your books signed",
+        "tags": "Reading"
+    },
+    {
+        "id": 115,
+        "name": "Book Festival",
+        "organizer": "Book Festival Inc.",
+        "start_date": "2023-05-21T09:00:00",
+        "end_date": "2023-05-21T17:00:00",
+        "description": "Join the Book Festival and explore the latest books and authors",
+        "tags": "Reading"
+    },
+    {
+        "id": 116,
+        "name": "Movie Night",
+        "organizer": "Movie Night Inc.",
+        "start_date": "2023-06-21T09:00:00",
+        "end_date": "2023-06-21T17:00:00",
+        "description": "Join the Movie Night and watch the latest films and discuss them",
+        "tags": "Movie"
+    },
+    {
+        "id": 117,
+        "name": "Film Festival",
+        "organizer": "Film Festival Inc.",
+        "start_date": "2023-07-21T09:00:00",
+        "end_date": "2023-07-21T17:00:00",
+        "description": "Join the Film Festival and explore the world of independent films",
+        "tags": "Movie"
+    },
+    {
+        "id": 118,
+        "name": "Movie Marathon",
+        "organizer": "Movie Marathon Inc.",
+        "start_date": "2023-08-21T09:00:00",
+        "end_date": "2023-08-22T21:00:00",
+        "description": "Watch a ton of different movies in a world of different genres from horror to advanced cinema.",
+        "tags": "Movie"
+    },
+    {
+        "id": 119,
+        "name": "Movie Screening",
+        "organizer": "Movie Screening Inc.",
+        "start_date": "2023-09-21T09:00:00",
+        "end_date": "2023-09-21T17:00:00",
+        "description": "Join the Movie Screening and watch the latest movies before they are released to the public",
+        "tags": "Movie"
+    },
+    {
+        "id": 120,
+        "name": "Movie Discussion",
+        "organizer": "Movie Discussion Inc.",
+        "start_date": "2023-10-21T09:00:00",
+        "end_date": "2023-10-21T17:00:00",
+        "description": "Join the Movie Discussion and talk about the latest movies and their themes with other movie enthusiasts",
+        "tags": "Movie"
+    },
+    {
+        "id": 121,
+        "name": "Podcast Club",
+        "organizer": "Podcast Club Inc.",
+        "start_date": "2023-11-21T09:00:00",
+        "end_date": "2023-11-21T17:00:00",
+        "description": "Join the Podcast Club and listen to and discuss the latest podcasts",
+        "tags": "Podcast"
+    },
+    {
+        "id": 122,
+        "name": "Podcast Recording",
+        "organizer": "Podcast Recording Inc.",
+        "start_date": "2023-12-21T09:00:00",
+        "end_date": "2023-12-21T17:00:00",
+        "description": "Join the Podcast Recording and learn how to create and record your own podcasts",
+        "tags": "Podcast"
+    },
+    {
+        "id": 123,
+        "name": "Podcast Listening Party",
+        "organizer": "Podcast Listening Party Inc.",
+        "start_date": "2024-01-21T09:00:00",
+        "end_date": "2024-01-21T17:00:00",
+        "description": "Join the Podcast Listening Party and listen to the latest podcasts with others",
+        "tags": "Podcast"
+    },
+    {
+        "id": 124,
+        "name": "Concert Night",
+        "organizer": "Concert Night Inc.",
+        "start_date": "2024-02-21T09:00:00",
+        "end_date": "2024-02-21T17:00:00",
+        "description": "Join the Concert Night and listen to live music from local bands",
+        "tags": "Music"
+    },
+    {
+        "id": 125,
+        "name": "Music Festival",
+        "organizer": "Music Festival Inc.",
+        "start_date": "2024-03-21T09:00:00",
+        "end_date": "2024-03-21T17:00:00",
+        "description": "Join the Music Festival and explore the latest music from around the world",
+        "tags": "Music"
+    },
+    {
+        "id": 126,
+        "name": "TV Show Night",
+        "organizer": "TV Show Night Inc.",
+        "start_date": "2024-04-21T09:00:00",
+        "end_date": "2024-04-21T17:00:00",
+        "description": "Join the TV Show Night and watch the latest episodes of your favorite shows with others",
+        "tags": "TV Show"
+    },
+    {
+        "id": 127,
+        "name": "TV Show Discussion",
+        "organizer": "TV Show Discussion Inc.",
+        "start_date": "2024-05-21T09:00:00",
+        "end_date": "2024-05-21T17:00:00",
+        "description": "Join the TV Show Discussion and talk about the latest episodes and plot twists of your favorite shows",
+        "tags": "TV Show"
+    },
+    {
+        "id": 128,
+        "name": "Podcast Marathon",
+        "organizer": "Podcast Marathon Inc.",
+        "start_date": "2024-06-21T09:00:00",
+        "end_date": "2024-06-21T17:00:00",
+        "description": "Join the Podcast Marathon and listen to your favorite podcasts back-to-back",
+        "tags": "Podcast"
+    },
+    {
+        "id": 129,
+        "name": "Podcast Trivia Night",
+        "organizer": "Podcast Trivia Night Inc.",
+        "start_date": "2024-07-21T09:00:00",
+        "end_date": "2024-07-21T17:00:00",
+        "description": "Join the Podcast Trivia Night and test your knowledge of your favorite podcasts",
+        "tags": "Podcast"
+    },
+    {
+        "id": 130,
+        "name": "Music Jam Session",
+        "organizer": "Music Jam Session Inc.",
+        "start_date": "2024-08-21T09:00:00",
+        "end_date": "2024-08-21T17:00:00",
+        "description": "Join the Music Jam Session and play music with other musicians",
+        "tags": "Music"
+    },
+    {
+        "id": 131,
+        "name": "Music Appreciation Night",
+        "organizer": "Music Appreciation Night Inc.",
+        "start_date": "2024-09-21T09:00:00",
+        "end_date": "2024-09-21T17:00:00",
+        "description": "Join the Music Appreciation Night and learn about different music genres and artists",
+        "tags": "Music"
+    },
+    {
+        "id": 132,
+        "name": "Music Production Workshop",
+        "organizer": "Music Production Workshop Inc.",
+        "start_date": "2024-10-21T09:00:00",
+        "end_date": "2024-10-21T17:00:00",
+        "description": "Join the Music Production Workshop and learn how to create and produce your own music",
+        "tags": "Music"
+    },
+    {
+        "id": 133,
+        "name": "TV Show Binge Night",
+        "organizer": "TV Show Binge Night Inc.",
+        "start_date": "2024-11-21T09:00:00",
+        "end_date": "2024-11-21T17:00:00",
+        "description": "Join the TV Show Binge Night and watch multiple episodes of your favorite shows back-to-back",
+        "tags": "TV Show"
+    },
+    {
+        "id": 134,
+        "name": "TV Show Themed Party",
+        "organizer": "TV Show Themed Party Inc.",
+        "start_date": "2024-12-21T09:00:00",
+        "end_date": "2024-12-21T17:00:00",
+        "description": "Join the TV Show Themed Party and dress up as your favorite characters from your favorite shows",
+        "tags": "TV Show"
+    },
+    {
+        "id": 135,
+        "name": "TV Show Script Reading",
+        "organizer": "TV Show Script Reading Inc.",
+        "start_date": "2025-01-21T09:00:00",
+        "end_date": "2025-01-21T17:00:00",
+        "description": "Join the TV Show Script Reading and read through the scripts of your favorite shows",
+        "tags": "TV Show"
+    },
+    {
+        "id": 136,
+        "name": "5K Run",
+        "organizer": "Running Club",
+        "start_date": "2023-01-21T09:00:00",
+        "end_date": "2023-01-21T11:00:00",
+        "description": "Join us for a 5K run through the city and support a local charity.",
+        "tags": "Running"
+    },
+    {
+        "id": 137,
+        "name": "10K Training Program",
+        "organizer": "Personal Trainer",
+        "start_date": "2023-02-15T19:00:00",
+        "end_date": "2023-05-15T19:00:00",
+        "description": "Train for a 10K race with experienced coaches and reach your fitness goals.",
+        "tags": "Running"
+    },
+    {
+        "id": 138,
+        "name": "Half Marathon",
+        "organizer": "Race Organizers",
+        "start_date": "2023-03-20T07:00:00",
+        "end_date": "2023-03-20T10:00:00",
+        "description": "Join a half marathon race and push your limits.",
+        "tags": "Running"
+    },
+    {
+        "id": 139,
+        "name": "Fun Run",
+        "organizer": "Community Center",
+        "start_date": "2023-04-10T09:00:00",
+        "end_date": "2023-04-10T11:00:00",
+        "description": "Join a non-competitive fun run with family and friends.",
+        "tags": "Running"
+    },
+    {
+        "id": 140,
+        "name": "Bike Ride",
+        "organizer": "Cycling Club",
+        "start_date": "2023-05-01T19:00:00",
+        "end_date": "2023-05-01T22:00:00",
+        "description": "Join a leisurely bike ride through the countryside with fellow cycling enthusiasts.",
+        "tags": "Cycling"
+    },
+    {
+        "id": 141,
+        "name": "Mountain Bike Trail",
+        "organizer": "Outdoor Adventure Company",
+        "start_date": "2023-06-15T09:00:00",
+        "end_date": "2023-06-15T17:00:00",
+        "description": "Explore the mountain bike trails with experienced guides and improve your off-road biking skills.",
+        "tags": "Cycling"
+    },
+    {
+        "id": 142,
+        "name": "Road Bike Tour",
+        "organizer": "Cycling Tour Company",
+        "start_date": "2023-07-20T09:00:00",
+        "end_date": "2023-07-25T17:00:00",
+        "description": "Join a road bike tour of the countryside and see the sights.",
+        "tags": "Cycling"
+    },
+    {
+        "id": 143,
+        "name": "Bike Maintenance Workshop",
+        "organizer": "Bike Shop",
+        "start_date": "2023-08-10T19:00:00",
+        "end_date": "2023-08-10T22:00:00",
+        "description": "Learn how to maintain your bike and keep it running smoothly.",
+        "tags": "Cycling"
+    },
+    {
+        "id": 144,
+        "name": "Hiking Trip",
+        "organizer": "Outdoor Club",
+        "start_date": "2023-09-01T09:00:00",
+        "end_date": "2023-09-01T17:00:00",
+        "description": "Join a guided hiking trip and explore nature.",
+        "tags": "Hiking"
+    },
+    {
+        "id": 145,
+        "name": "Backpacking Adventure",
+        "organizer": "Adventure Company",
+        "start_date": "2023-10-15T09:00:00",
+        "end_date": "2023-10-20T17:00:00",
+        "description": "Experience the thrill of backpacking in the wilderness with experienced guides.",
+        "tags": "Hiking"
+    },
+    {
+        "id": 146,
+        "name": "Geocaching",
+        "organizer": "Outdoor Club",
+        "start_date": "2023-11-01T09:00:00",
+        "end_date": "2023-11-01T17:00:00",
+        "description": "Join a geocaching adventure and search for hidden treasures.",
+        "tags": "Hiking"
+    },
+    {
+        "id": 147,
+        "name": "Nature Walk",
+        "organizer": "Park Ranger",
+        "start_date": "2023-12-01T09:00:00",
+        "end_date": "2023-12-01T11:00:00",
+        "description": "Join a guided nature walk and learn about the local flora and fauna.",
+        "tags": "Hiking"
+    },
+    {
+        "id": 148,
+        "name": "Walking Tour",
+        "organizer": "Tour Guide",
+        "start_date": "2023-01-01T09:00:00",
+        "end_date": "2023-01-01T11:00:00",
+        "description": "Explore the city on foot and learn about its history and culture.",
+        "tags": "Walking"
+    },
+    {
+        "id": 149,
+        "name": "Walking Group",
+        "organizer": "Senior Center",
+        "start_date": "2023-02-01T09:00:00",
+        "end_date": "2023-02-01T11:00:00",
+        "description": "Join a walking group for seniors and improve your fitness.",
+        "tags": "Walking"
+    },
+    {
+        "id": 150,
+        "name": "Pedestrian Safety Workshop",
+        "organizer": "Transportation Department",
+        "start_date": "2023-03-01T09:00:00",
+        "end_date": "2023-03-01T11:00:00",
+        "description": "Learn about pedestrian safety and how to navigate the streets safely.",
+        "tags": "Walking"
+    },
+    {
+        "id": 151,
+        "name": "Walking Challenge",
+        "organizer": "Fitness Center",
+        "start_date": "2023-04-01T09:00:00",
+        "end_date": "2023-04-30T11:00:00",
+        "description": "Join a walking challenge and track your steps to improve your health and fitness.",
+        "tags": "Walking"
+    },
+    {
+        "id": 152,
+        "name": "Swim Meet",
+        "organizer": "Swim Club",
+        "start_date": "2023-05-01T09:00:00",
+        "end_date": "2023-05-01T17:00:00",
+        "description": "Compete against other swimmers and improve your skills.",
+        "tags": "Swimming"
+    },
+    {
+        "id": 153,
+        "name": "Swim Lessons",
+        "organizer": "YMCA",
+        "start_date": "2023-06-01T09:00:00",
+        "end_date": "2023-06-30T17:00:00",
+        "description": "Learn how to swim and improve your technique with experienced instructors.",
+        "tags": "Swimming"
+    },
+    {
+        "id": 154,
+        "name": "Open Water Swim",
+        "organizer": "Triathlon Club",
+        "start_date": "2023-07-01T09:00:00",
+        "end_date": "2023-07-01T17:00:00",
+        "description": "Join an open water swim and experience the challenge of swimming in natural bodies of water.",
+        "tags": "Swimming"
+    },
+    {
+        "id": 155,
+        "name": "Swim Clinic",
+        "organizer": "Olympic Swimmer",
+        "start_date": "2023-08-01T09:00:00",
+        "end_date": "2023-08-01T17:00:00",
+        "description": "Learn from an Olympic swimmer and improve your skills and techniques.",
+        "tags": "Swimming"
+    },
+    {
+        "id": 156,
+        "name": "Pool Party",
+        "organizer": "Community Center",
+        "start_date": "2023-09-01T09:00:00",
+        "end_date": "2023-09-01T17:00:00",
+        "description": "Join a pool party and have fun swimming with friends and family.",
+        "tags": "Swimming"
+    },
+    {
+        "id": 157,
+        "name": "Marathon Training Program",
+        "organizer": "Professional Coach",
+        "start_date": "2023-11-01T09:00:00",
+        "end_date": "2023-02-28T09:00:00",
+        "description": "Train for a marathon with a professional coach and reach your running goals.",
+        "tags": "Running"
+    },
+    {
+        "id": 158,
+        "name": "Bike Maintenance Workshop",
+        "organizer": "Bike Shop",
+        "start_date": "2023-10-01T19:00:00",
+        "end_date": "2023-10-01T22:00:00",
+        "description": "Learn how to maintain your bike and keep it running smoothly.",
+        "tags": "Cycling"
+    },
+    {
+        "id": 159,
+        "name": "Hiking with the kids",
+        "organizer": "Outdoor Club",
+        "start_date": "2023-09-01T09:00:00",
+        "end_date": "2023-09-01T17:00:00",
+        "description": "Join a guided hiking trip with your kids and explore nature.",
+        "tags": "Hiking"
+    },
+    {
+        "id": 160,
+        "name": "Walking Challenge",
+        "organizer": "Fitness Center",
+        "start_date": "2023-08-01T09:00:00",
+        "end_date": "2023-08-31T11:00:00",
+        "description": "Join a walking challenge and track your steps to improve your health and fitness.",
+        "tags": "Walking"
+    },
+    {
+        "id": 161,
+        "name": "Board Game Night",
+        "organizer": "Board Game Club",
+        "start_date": "2023-01-21T19:00:00",
+        "end_date": "2023-01-21T23:00:00",
+        "description": "Join us for a night of fun and strategy with a variety of board games. All skill levels welcome!",
+        "tags": "Board Game"
+    },
+    {
+        "id": 162,
+        "name": "Monopoly Tournament",
+        "organizer": "Board Game Club",
+        "start_date": "2023-01-22T14:00:00",
+        "end_date": "2023-01-22T18:00:00",
+        "description": "Test your real estate skills and compete for prizes in our Monopoly tournament. Sign up now!",
+        "tags": "Board Game"
+    },
+    {
+        "id": 163,
+        "name": "Scrabble Challenge",
+        "organizer": "Board Game Club",
+        "start_date": "2023-01-23T10:00:00",
+        "end_date": "2023-01-23T12:00:00",
+        "description": "Put your vocabulary to the test in our Scrabble Challenge. Prizes for the top scorers!",
+        "tags": "Board Game"
+    },
+    {
+        "id": 164,
+        "name": "Chess Championship",
+        "organizer": "Board Game Club",
+        "start_date": "2023-01-24T16:00:00",
+        "end_date": "2023-01-24T20:00:00",
+        "description": "Join us for our annual Chess Championship. Open to players of all skill levels!",
+        "tags": "Board Game"
+    },
+    {
+        "id": 165,
+        "name": "Battleship Battle",
+        "organizer": "Board Game Club",
+        "start_date": "2023-01-25T18:00:00",
+        "end_date": "2023-01-25T22:00:00",
+        "description": "Sink your opponents ships in our Battleship Battle. Prizes for the last ship standing!",
+        "tags": "Board Game"
+    },
+    {
+        "id": 166,
+        "name": "Online Gaming Night",
+        "organizer": "Online Gaming Club",
+        "start_date": "2023-01-26T19:00:00",
+        "end_date": "2023-01-26T23:00:00",
+        "description": "Join us for a night of online gaming fun with a variety of games. All skill levels welcome!",
+        "tags": "Online Gaming"
+    },
+    {
+        "id": 167,
+        "name": "Fortnite Tournament",
+        "organizer": "Online Gaming Club",
+        "start_date": "2023-01-27T14:00:00",
+        "end_date": "2023-01-27T18:00:00",
+        "description": "Join us for our Fortnite tournament and compete for prizes. Sign up now!",
+        "tags": "Online Gaming"
+    },
+    {
+        "id": 168,
+        "name": "League of Legends Showdown",
+        "organizer": "Online Gaming Club",
+        "start_date": "2023-01-28T10:00:00",
+        "end_date": "2023-01-28T12:00:00",
+        "description": "Join us for our League of Legends Showdown. Prizes for the top players!",
+        "tags": "Online Gaming"
+    },
+    {
+        "id": 169,
+        "name": "Overwatch Competition",
+        "organizer": "Online Gaming Club",
+        "start_date": "2023-01-29T16:00:00",
+        "end_date": "2023-01-29T20:00:00",
+        "description": "Join us for our Overwatch competition. Prizes for the top team!",
+        "tags": "Online Gaming"
+    },
+    {
+        "id": 170,
+        "name": "Minecraft Build-Off",
+        "organizer": "Online Gaming Club",
+        "start_date": "2023-01-30T18:00:00",
+        "end_date": "2023-01-30T22:00:00",
+        "description": "Join us for our Minecraft Build-Off. Prizes for the most creative builds!",
+        "tags": "Online Gaming"
+    },
+    {
+        "id": 171,
+        "name": "Card Game Night",
+        "organizer": "Card Game Club",
+        "start_date": "2023-01-31T19:00:00",
+        "end_date": "2023-01-31T23:00:00",
+        "description": "Join us for a night of card games with a variety of games. All skill levels welcome!",
+        "tags": "Card Game"
+    },
+    {
+        "id": 172,
+        "name": "Poker Tournament",
+        "organizer": "Card Game Club",
+        "start_date": "2023-02-01T14:00:00",
+        "end_date": "2023-02-01T18:00:00",
+        "description": "Join us for our Poker tournament and compete for prizes. Sign up now!",
+        "tags": "Card Game"
+    },
+    {
+        "id": 173,
+        "name": "Bridge Challenge",
+        "organizer": "Card Game Club",
+        "start_date": "2023-02-02T10:00:00",
+        "end_date": "2023-02-02T12:00:00",
+        "description": "Put your card skills to the test in our Bridge Challenge. Prizes for the top scorers!",
+        "tags": "Card Game"
+    },
+    {
+        "id": 174,
+        "name": "Blackjack Championship",
+        "organizer": "Card Game Club",
+        "start_date": "2023-02-03T16:00:00",
+        "end_date": "2023-02-03T20:00:00",
+        "description": "Join us for our annual Blackjack Championship. Open to players of all skill levels!",
+        "tags": "Card Game"
+    },
+    {
+        "id": 175,
+        "name": "Rummy Royale",
+        "organizer": "Card Game Club",
+        "start_date": "2023-02-04T18:00:00",
+        "end_date": "2023-02-04T22:00:00",
+        "description": "Join us for our Rummy Royale tournament. Prizes for the top players!",
+        "tags": "Card Game"
+    },
+    {
+        "id": 176,
+        "name": "Role Playing Game Night",
+        "organizer": "Role Playing Game Club",
+        "start_date": "2023-02-05T19:00:00",
+        "end_date": "2023-02-05T23:00:00",
+        "description": "Join us for a night of role playing games with a variety of games. All skill levels welcome!",
+        "tags": "Role Playing Game"
+    },
+    {
+        "id": 177,
+        "name": "Dungeons & Dragons Adventure",
+        "organizer": "Role Playing Game Club",
+        "start_date": "2023-02-06T14:00:00",
+        "end_date": "2023-02-06T18:00:00",
+        "description": "Join us for a Dungeons & Dragons adventure and test your skills. Sign up now!",
+        "tags": "Role Playing Game"
+    },
+    {
+        "id": 178,
+        "name": "Pathfinder Quest",
+        "organizer": "Role Playing Game Club",
+        "start_date": "2023-02-07T10:00:00",
+        "end_date": "2023-02-07T12:00:00",
+        "description": "Join us for a Pathfinder quest and explore the world of fantasy role playing games",
+        "tags": "Role Playing Game"
+    },
+    {
+        "id": 179,
+        "name": "Call of Cthulhu Scenario",
+        "organizer": "Role Playing Game Club",
+        "start_date": "2023-02-08T16:00:00",
+        "end_date": "2023-02-08T20:00:00",
+        "description": "Join us for a Call of Cthulhu scenario and experience the world of cosmic horror role playing.",
+        "tags": "Role Playing Game"
+    },
+    {
+        "id": 180,
+        "name": "Shadowrun Mission",
+        "organizer": "Role Playing Game Club",
+        "start_date": "2023-02-09T18:00:00",
+        "end_date": "2023-02-09T22:00:00",
+        "description": "Join us for a Shadowrun mission and experience the world of cyberpunk role playing.",
+        "tags": "Role Playing Game"
+    },
+    {
+        "id": 181,
+        "name": "Puzzle Night",
+        "organizer": "Puzzle Club",
+        "start_date": "2023-02-10T19:00:00",
+        "end_date": "2023-02-10T23:00:00",
+        "description": "Join us for a night of puzzles with a variety of games. All skill levels welcome!",
+        "tags": "Puzzles"
+    },
+    {
+        "id": 182,
+        "name": "Sudoku Showdown",
+        "organizer": "Puzzle Club",
+        "start_date": "2023-02-11T14:00:00",
+        "end_date": "2023-02-11T18:00:00",
+        "description": "Join us for our Sudoku Showdown and compete for prizes. Sign up now!",
+        "tags": "Puzzles"
+    },
+    {
+        "id": 183,
+        "name": "Crossword Challenge",
+        "organizer": "Puzzle Club",
+        "start_date": "2023-02-12T10:00:00",
+        "end_date": "2023-02-12T12:00:00",
+        "description": "Put your vocabulary to the test in our Crossword Challenge. Prizes for the top scorers!",
+        "tags": "Puzzles"
+    },
+    {
+        "id": 184,
+        "name": "Jigsaw Puzzle Competition",
+        "organizer": "Puzzle Club",
+        "start_date": "2023-02-13T16:00:00",
+        "end_date": "2023-02-13T20:00:00",
+        "description": "Join us for our Jigsaw Puzzle Competition. Prizes for the fastest completion times!",
+        "tags": "Puzzles"
+    },
+    {
+        "id": 185,
+        "name": "Rubik's Cube Challenge",
+        "organizer": "Puzzle Club",
+        "start_date": "2023-02-14T18:00:00",
+        "end_date": "2023-02-14T22:00:00",
+        "description": "Join us for our Rubik's Cube Challenge. Prizes for the fastest solving times!",
+        "tags": "Puzzles"
+    },
+    {
+        "id": 186,
+        "name": "Farm-to-Table Dinner",
+        "organizer": "Farm-to-Table Society",
+        "start_date": "2023-02-17T19:00:00",
+        "end_date": "2023-02-17T22:00:00",
+        "description": "Join us for a delicious farm-to-table dinner featuring locally sourced ingredients.",
+        "tags": "Healthy Food"
+    },
+    {
+        "id": 187,
+        "name": "Vegan Cooking Workshop",
+        "organizer": "Vegan Society",
+        "start_date": "2023-02-18T14:00:00",
+        "end_date": "2023-02-18T17:00:00",
+        "description": "Learn how to cook delicious and healthy vegan meals in this hands-on workshop.",
+        "tags": "Healthy Food"
+    },
+    {
+        "id": 188,
+        "name": "Raw Food Seminar",
+        "organizer": "Raw Food Society",
+        "start_date": "2023-02-19T10:00:00",
+        "end_date": "2023-02-19T12:00:00",
+        "description": "Learn about the benefits of a raw food diet and get tips and recipes in this seminar.",
+        "tags": "Healthy Food"
+    },
+    {
+        "id": 189,
+        "name": "Smoothie Making Class",
+        "organizer": "Smoothie Society",
+        "start_date": "2023-02-20T16:00:00",
+        "end_date": "2023-02-20T18:00:00",
+        "description": "Learn how to make delicious and healthy smoothies in this hands-on class.",
+        "tags": "Healthy Food"
+    },
+    {
+        "id": 190,
+        "name": "Juice Cleanse Workshop",
+        "organizer": "Juice Cleanse Society",
+        "start_date": "2023-02-21T18:00:00",
+        "end_date": "2023-02-21T20:00:00",
+        "description": "Learn about the benefits of a juice cleanse and get tips and recipes in this workshop.",
+        "tags": "Healthy Food"
+    },
+    {
+        "id": 191,
+        "name": "Fast Food Tasting Event",
+        "organizer": "Fast Food Society",
+        "start_date": "2023-02-22T19:00:00",
+        "end_date": "2023-02-22T21:00:00",
+        "description": "Join us for a fast food tasting event featuring a variety of popular fast food chains.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 192,
+        "name": "Burger Showdown",
+        "organizer": "Burger Society",
+        "start_date": "2023-02-23T14:00:00",
+        "end_date": "2023-02-23T16:00:00",
+        "description": "Join us for a burger showdown where we will taste and compare burgers from different restaurants.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 193,
+        "name": "Fried Chicken Festival",
+        "organizer": "Fried Chicken Society",
+        "start_date": "2023-02-24T10:00:00",
+        "end_date": "2023-02-24T12:00:00",
+        "description": "Join us for a festival celebrating all things fried chicken, with vendors selling their best recipes.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 194,
+        "name": "Pizza Party",
+        "organizer": "Pizza Society",
+        "start_date": "2023-02-25T16:00:00",
+        "end_date": "2023-02-25T20:00:00",
+        "description": "Join us for a pizza party with a variety of pizza from different pizzerias.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 195,
+        "name": "Fine Dining Experience",
+        "organizer": "Fine Dining Society",
+        "start_date": "2023-02-26T18:00:00",
+        "end_date": "2023-02-26T22:00:00",
+        "description": "Join us for a fine dining experience featuring a multi-course meal and wine pairing.",
+        "tags": "Fine Dining"
+    },
+    {
+        "id": 196,
+        "name": "Sushi Making Class",
+        "organizer": "Sushi Society",
+        "start_date": "2023-02-27T19:00:00",
+        "end_date": "2023-02-27T22:00:00",
+        "description": "Learn how to make sushi in this hands-on class with a master sushi chef.",
+        "tags": "Fine Dining"
+    },
+    {
+        "id": 197,
+        "name": "French Cooking Workshop",
+        "organizer": "French Cooking Society",
+        "start_date": "2023-02-28T14:00:00",
+        "end_date": "2023-02-28T17:00:00",
+        "description": "Learn how to cook classic French dishes in this hands-on workshop.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 192,
+        "name": "Burger Showdown",
+        "organizer": "Burger Society",
+        "start_date": "2023-02-23T14:00:00",
+        "end_date": "2023-02-23T16:00:00",
+        "description": "Join us for a burger showdown where we will taste and compare burgers from different restaurants.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 193,
+        "name": "Fried Chicken Festival",
+        "organizer": "Fried Chicken Society",
+        "start_date": "2023-02-24T10:00:00",
+        "end_date": "2023-02-24T12:00:00",
+        "description": "Join us for a festival celebrating all things fried chicken, with vendors selling their best recipes.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 194,
+        "name": "Pizza Party",
+        "organizer": "Pizza Society",
+        "start_date": "2023-02-25T16:00:00",
+        "end_date": "2023-02-25T20:00:00",
+        "description": "Join us for a pizza party with a variety of pizza from different pizzerias.",
+        "tags": "Fast Food"
+    },
+    {
+        "id": 195,
+        "name": "Fine Dining Experience",
+        "organizer": "Fine Dining Society",
+        "start_date": "2023-02-26T18:00:00",
+        "end_date": "2023-02-26T22:00:00",
+        "description": "Join us for a fine dining experience featuring a multi-course meal and wine pairing.",
+        "tags": "Fine Dining"
+    },
+    {
+        "id": 196,
+        "name": "Sushi Making Class",
+        "organizer": "Sushi Society",
+        "start_date": "2023-02-27T19:00:00",
+        "end_date": "2023-02-27T22:00:00",
+        "description": "Learn how to make sushi in this hands-on class with a master sushi chef.",
+        "tags": "Fine Dining"
+    },
+    {
+        "id": 197,
+        "name": "French Cooking Workshop",
+        "organizer": "French Cooking Society",
+        "start_date": "2023-02-28T14:00:00",
+        "end_date": "2023-02-28T17:00:00",
+        "description": "Learn how to cook classic French dishes in this hands-on workshop.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 198,
+        "name": "Italian Cooking Class",
+        "organizer": "Italian Cooking Society",
+        "start_date": "2023-03-01T10:00:00",
+        "end_date": "2023-03-01T12:00:00",
+        "description": "Learn how to cook classic Italian dishes in this hands-on class.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 199,
+        "name": "Mexican Cooking Workshop",
+        "organizer": "Mexican Cooking Society",
+        "start_date": "2023-03-02T16:00:00",
+        "end_date": "2023-03-02T18:00:00",
+        "description": "Learn how to cook authentic Mexican dishes in this hands-on workshop.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 200,
+        "name": "Baking 101",
+        "organizer": "Baking Society",
+        "start_date": "2023-03-03T18:00:00",
+        "end_date": "2023-03-03T20:00:00",
+        "description": "Learn the basics of baking in this introductory class.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 201,
+        "name": "Cake Decorating Workshop",
+        "organizer": "Cake Decorating Society",
+        "start_date": "2023-03-04T19:00:00",
+        "end_date": "2023-03-04T22:00:00",
+        "description": "Learn how to decorate cakes like a pro in this hands-on workshop.",
+        "tags": "Cooking classes"
+    },
+    {
+        "id": 202,
+        "name": "Organic Grocery Shopping Tour",
+        "organizer": "Organic Society",
+        "start_date": "2023-03-05T14:00:00",
+        "end_date": "2023-03-05T16:00:00",
+        "description": "Join us for a tour of the best places to shop for organic groceries.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 203,
+        "name": "Farmers Market Tour",
+        "organizer": "Farmers Market Society",
+        "start_date": "2023-03-06T10:00:00",
+        "end_date": "2023-03-06T12:00:00",
+        "description": "Join us for a tour of the best farmers markets in the area.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 204,
+        "name": "Specialty Foods Tasting Event",
+        "organizer": "Specialty Foods Society",
+        "start_date": "2023-03-07T16:00:00",
+        "end_date": "2023-03-07T18:00:00",
+        "description": "Join us for a tasting event featuring a variety of specialty foods.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 205,
+        "name": "Bulk Foods Workshop",
+        "organizer": "Bulk Foods Society",
+        "start_date": "2023-03-08T18:00:00",
+        "end_date": "2023-03-08T20:00:00",
+        "description": "Learn how to shop for and store bulk foods in this workshop.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 206,
+        "name": "Gourmet Foods Tasting Event",
+        "organizer": "Gourmet Foods Society",
+        "start_date": "2023-03-09T19:00:00",
+        "end_date": "2023-03-09T22:00:00",
+        "description": "Join us for a gourmet foods tasting event featuring a variety of high-end foods.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 207,
+        "name": "Gluten-Free Foods Workshop",
+        "organizer": "Gluten-Free Foods Society",
+        "start_date": "2023-03-10T14:00:00",
+        "end_date": "2023-03-10T16:00:00",
+        "description": "Learn how to cook and shop for gluten-free foods in this workshop.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 208,
+        "name": "Vegetarian Foods Workshop",
+        "organizer": "Vegetarian Foods Society",
+        "start_date": "2023-03-11T10:00:00",
+        "end_date": "2023-03-11T12:00:00",
+        "description": "Learn how to cook and shop for vegetarian foods in this workshop.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 209,
+        "name": "Organic Fruit and Vegetable Workshop",
+        "organizer": "Organic Society",
+        "start_date": "2023-03-12T14:00:00",
+        "end_date": "2023-03-12T16:00:00",
+        "description": "Learn how to shop for and store organic fruits and vegetables in this workshop.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 210,
+        "name": "Food Preservation Workshop",
+        "organizer": "Food Preservation Society",
+        "start_date": "2023-03-14T14:00:00",
+        "end_date": "2023-03-14T16:00:00",
+        "description": "Learn how to preserve food using various methods, such as canning and freezing, in this workshop.",
+        "tags": "Grocery Shops"
+    },
+    {
+        "id": 211,
+        "name": "Weightlifting 101",
+        "organizer": "Weightlifting Society",
+        "start_date": "2023-01-22T09:00:00",
+        "end_date": "2023-01-22T11:00:00",
+        "description": "Learn the basics of weightlifting in this introductory class.",
+        "tags": "Weightlifting"
+    },
+    {
+        "id": 212,
+        "name": "Powerlifting Workshop",
+        "organizer": "Powerlifting Society",
+        "start_date": "2023-01-23T14:00:00",
+        "end_date": "2023-01-23T16:00:00",
+        "description": "Learn the techniques and strategies of powerlifting in this workshop.",
+        "tags": "Weightlifting"
+    },
+    {
+        "id": 213,
+        "name": "Olympic Weightlifting Class",
+        "organizer": "Academy of Gains",
+        "start_date": "2023-01-24T18:00:00",
+        "end_date": "2023-01-24T20:00:00",
+        "description": "Learn the techniques of Olympic weightlifting in this class.",
+        "tags": "Weightlifting"
+    },
+    {
+        "id": 214,
+        "name": "Strongman Training Workshop",
+        "organizer": "Strongman Society",
+        "start_date": "2023-01-25T19:00:00",
+        "end_date": "2023-01-25T22:00:00",
+        "description": "Learn the techniques and training methods used in strongman competitions in this workshop.",
+        "tags": "Weightlifting"
+    },
+    {
+        "id": 215,
+        "name": "Beginner Yoga Class",
+        "organizer": "Yoga Society",
+        "start_date": "2023-01-26T09:00:00",
+        "end_date": "2023-01-26T11:00:00",
+        "description": "Learn the basics of yoga in this class.",
+        "tags": "Yoga"
+    },
+    {
+        "id": 216,
+        "name": "Yin Yoga Workshop",
+        "organizer": "Yin Yoga Society",
+        "start_date": "2023-01-27T14:00:00",
+        "end_date": "2023-01-27T16:00:00",
+        "description": "Learn about the principles and practices of yin yoga in this workshop.",
+        "tags": "Yoga"
+    },
+    {
+        "id": 217,
+        "name": "Ashtanga Yoga Class",
+        "organizer": "Ashtanga Yoga Society",
+        "start_date": "2023-01-28T18:00:00",
+        "end_date": "2023-01-28T20:00:00",
+        "description": "Learn the principles and practices of Ashtanga yoga in this class.",
+        "tags": "Yoga"
+    },
+    {
+        "id": 218,
+        "name": "Vinyasa Yoga Class",
+        "organizer": "Vinyasa Yoga Society",
+        "start_date": "2023-01-29T19:00:00",
+        "end_date": "2023-01-29T21:00:00",
+        "description": "Learn the principles and practices of Vinyasa yoga in this class.",
+        "tags": "Yoga"
+    },
+    {
+        "id": 219,
+        "name": "CrossFit 101",
+        "organizer": "CrossFit Society",
+        "start_date": "2023-01-30T09:00:00",
+        "end_date": "2023-01-30T11:00:00",
+        "description": "Learn the basics of CrossFit in this introductory class.",
+        "tags": "Crossfit"
+    },
+    {
+        "id": 220,
+        "name": "CrossFit Endurance Workshop",
+        "organizer": "CrossFit Endurance Society",
+        "start_date": "2023-01-31T14:00:00",
+        "end_date": "2023-01-31T16:00:00",
+        "description": "Learn how to improve endurance in CrossFit in this workshop.",
+        "tags": "Crossfit"
+    },
+    {
+        "id": 221,
+        "name": "CrossFit Strength Workshop",
+        "organizer": "CrossFit Strength Society",
+        "start_date": "2023-02-01T18:00:00",
+        "end_date": "2023-02-01T20:00:00",
+        "description": "Learn how to improve strength in CrossFit in this workshop.",
+        "tags": "Crossfit"
+    },
+    {
+        "id": 222,
+        "name": "CrossFit Gymnastics Workshop",
+        "organizer": "CrossFit Gymnastics Society",
+        "start_date": "2023-02-02T19:00:00",
+        "end_date": "2023-02-02T22:00:00",
+        "description": "Learn how to improve gymnastics skills in CrossFit in this workshop.",
+        "tags": "Crossfit"
+    },
+    {
+        "id": 223,
+        "name": "Calisthenics 101",
+        "organizer": "Calisthenics Society",
+        "start_date": "2023-02-03T09:00:00",
+        "end_date": "2023-02-03T11:00:00",
+        "description": "Learn the basics of calisthenics in this introductory class.",
+        "tags": "Calisthenics"
+    },
+    {
+        "id": 224,
+        "name": "Advanced Calisthenics Workshop",
+        "organizer": "Advanced Calisthenics Society",
+        "start_date": "2023-02-04T14:00:00",
+        "end_date": "2023-02-04T16:00:00",
+        "description": "Learn advanced calisthenics techniques in this workshop.",
+        "tags": "Calisthenics"
+    },
+    {
+        "id": 225,
+        "name": "Calisthenics for Athletes",
+        "organizer": "Calisthenics for Athletes Society",
+        "start_date": "2023-02-05T18:00:00",
+        "end_date": "2023-02-05T20:00:00",
+        "description": "Learn how to use calisthenics to enhance athletic performance in this class.",
+        "tags": "Calisthenics"
+    },
+    {
+        "id": 226,
+        "name": "Calisthenics for Mobility",
+        "organizer": "Calisthenics for Mobility Society",
+        "start_date": "2023-02-06T19:00:00",
+        "end_date": "2023-02-06T21:00:00",
+        "description": "Learn how to use calisthenics to improve mobility and flexibility in this class.",
+        "tags": "Calisthenics"
+    },
+    {
+        "id": 227,
+        "name": "Calisthenics for Strength",
+        "organizer": "Calisthenics for Strength Society",
+        "start_date": "2023-02-07T09:00:00",
+        "end_date": "2023-02-07T11:00:00",
+        "description": "Learn how to use calisthenics to improve strength in this class.",
+        "tags": "Calisthenics"
+    },
+    {
+        "id": 228,
+        "name": "Flexibility 101",
+        "organizer": "Flexibility Society",
+        "start_date": "2023-02-08T14:00:00",
+        "end_date": "2023-02-08T16:00:00",
+        "description": "Learn the basics of flexibility training in this introductory class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 229,
+        "name": "Dynamic Flexibility Workshop",
+        "organizer": "Dynamic Flexibility Society",
+        "start_date": "2023-02-09T18:00:00",
+        "end_date": "2023-02-09T20:00:00",
+        "description": "Learn dynamic flexibility techniques in this workshop.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 230,
+        "name": "Static Flexibility Class",
+        "organizer": "Static Flexibility Society",
+        "start_date": "2023-02-10T19:00:00",
+        "end_date": "2023-02-10T21:00:00",
+        "description": "Learn static flexibility techniques in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 231,
+        "name": "Flexibility for Athletes",
+        "organizer": "Flexibility for Athletes Society",
+        "start_date": "2023-02-11T09:00:00",
+        "end_date": "2023-02-11T11:00:00",
+        "description": "Learn how to use flexibility training to enhance athletic performance in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 232,
+        "name": "Flexibility for Dance",
+        "organizer": "Flexibility for Dance Society",
+        "start_date": "2023-02-12T14:00:00",
+        "end_date": "2023-02-12T16:00:00",
+        "description": "Learn how to use flexibility training to improve dance technique in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 233,
+        "name": "Flexibility for Martial Arts",
+        "organizer": "Flexibility for Martial Arts Society",
+        "start_date": "2023-02-13T18:00:00",
+        "end_date": "2023-02-13T20:00:00",
+        "description": "Learn how to use flexibility training to improve martial arts technique in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 234,
+        "name": "Flexibility for Yoga",
+        "organizer": "Flexibility for Yoga Society",
+        "start_date": "2023-02-14T19:00:00",
+        "end_date": "2023-02-14T21:00:00",
+        "description": "Learn how to use flexibility training to improve your yoga practice in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 235,
+        "name": "Flexibility for Gymnastics",
+        "organizer": "Flexibility for Gymnastics Society",
+        "start_date": "2023-02-15T09:00:00",
+        "end_date": "2023-02-15T11:00:00",
+        "description": "Learn how to use flexibility training to improve your gymnastics skills in this class.",
+        "tags": "Flexibility"
+    },
+    {
+        "id": 236,
+        "name": "Drag Show Extravaganza",
+        "organizer": "Drag Queen Society",
+        "start_date": "2023-01-21T21:00:00",
+        "end_date": "2023-01-21T23:00:00",
+        "description": "Join us for a night of lip-syncing, dancing, and fabulous performances by local drag queens.",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 237,
+        "name": "Burlesque Night",
+        "organizer": "Burlesque Society",
+        "start_date": "2023-01-22T20:00:00",
+        "end_date": "2023-01-22T22:00:00",
+        "description": "Experience the art of tease with a night of burlesque performances by local performers.",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 238,
+        "name": "Strip Club Night",
+        "organizer": "Bachelor party",
+        "start_date": "2023-01-23T22:00:00",
+        "end_date": "2023-01-24T02:00:00",
+        "description": "Join us for a night of entertainment featuring local strip performers.",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 239,
+        "name": "Swinger Party",
+        "organizer": "Swinger Society",
+        "start_date": "2023-01-24T20:00:00",
+        "end_date": "2023-01-25T02:00:00",
+        "description": "Join other like-minded adults for a night of consensual and safe fun.",
+        "tags": "Swinger"
+    },
+    {
+        "id": 240,
+        "name": "Queer Dance Party",
+        "organizer": "Gender Sexuality Alliance (GSA)",
+        "start_date": "2023-01-25T22:00:00",
+        "end_date": "2023-01-26T02:00:00",
+        "description": "Join us for a night of music, dancing, and celebrating the LGBTQ+ community.",
+        "tags": "Queer Events"
+    },
+    {
+        "id": 241,
+        "name": "Drag Brunch",
+        "organizer": "Drag Queen Society",
+        "start_date": "2023-01-26T11:00:00",
+        "end_date": "2023-01-26T14:00:00",
+        "description": "Join us for a brunch featuring drag queen performances while you eat.",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 242,
+        "name": "Drag Queen Karaoke",
+        "organizer": "Drag Queen Society",
+        "start_date": "2023-01-27T20:00:00",
+        "end_date": "2023-01-27T23:00:00",
+        "description": "Sing your heart out with drag queen hosts leading the karaoke.",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 243,
+        "name": "Drag Queen Game Night",
+        "organizer": "Drag Queen Society",
+        "start_date": "2023-01-28T19:00:00",
+        "end_date": "2023-01-28T22:00:00",
+        "description": "Join us for a night of games and performances by local drag queens.",
+        "tags": "Drag Show"
+    },
+    {
+        "id": 244,
+        "name": "Burlesque Workshop",
+        "organizer": "Burlesque Society",
+        "start_date": "2023-01-29T14:00:00",
+        "end_date": "2023-01-29T17:00:00",
+        "description": "Learn the art of burlesque in this workshop led by local performers.",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 245,
+        "name": "Burlesque History Night",
+        "organizer": "Burlesque Society",
+        "start_date": "2023-01-30T19:00:00",
+        "end_date": "2023-01-30T21:00:00",
+        "description": "Learn about the history of burlesque and its impact on the entertainment industry.",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 246,
+        "name": "Burlesque Showcase",
+        "organizer": "Burlesque Society",
+        "start_date": "2023-01-31T20:00:00",
+        "end_date": "2023-01-31T22:00:00",
+        "description": "Watch a showcase of burlesque performances by local and touring performers.",
+        "tags": "Burlesque show"
+    },
+    {
+        "id": 247,
+        "name": "Strip Club Night",
+        "organizer": "Strip Club Society",
+        "start_date": "2023-02-01T22:00:00",
+        "end_date": "2023-02-02T02:00:00",
+        "description": "Join us for a night of entertainment featuring local strip performers.",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 248,
+        "name": "Strip Club Comedy Night",
+        "organizer": "Strip Club Society",
+        "start_date": "2023-02-02T20:00:00",
+        "end_date": "2023-02-02T22:00:00",
+        "description": "Enjoy a night of comedy and strip performances.",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 249,
+        "name": "Strip Club Karaoke Night",
+        "organizer": "Strip Club Society",
+        "start_date": "2023-02-03T21:00:00",
+        "end_date": "2023-02-03T23:00:00",
+        "description": "Sing your heart out while enjoying strip performances.",
+        "tags": "Strip Clubs"
+    },
+    {
+        "id": 250,
+        "name": "Swinger Social Night",
+        "organizer": "Swinger Society",
+        "start_date": "2023-02-04T19:00:00",
+        "end_date": "2023-02-04T22:00:00",
+        "description": "Join other like-minded adults for a night of consensual and safe socializing.",
+        "tags": "Swinger"
+    }
+]

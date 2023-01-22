@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>cum:here API</title>
+    </head> 
+    <body>
+        <div>
+            <h1>HERE ARE THE PLACES YOUR SEXY ASS CAN GO</h1>
+            <ol>
+            {% for recc in reccs %}
+                <li><ul>
+                    <li> Event Name: {{ recc[1] }} </li>
+                    <li> Event Organizer: {{ recc[2] }} </li>
+                    <li> Start Date: {{ recc[3] }} </li>
+                    <li> End Date: {{ recc[4] }} </li>
+                    <li> What it is: {{ recc[5] }} </li> 
+                </ul></li>
+            {% endfor %}
+            </ol>
+        </div>
+    </body>
+</html>
