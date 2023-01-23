@@ -34,6 +34,7 @@ for entry in dataset:
         insert_from_dict(entry)
     except:
         print("JE METTE LE COCAINE DANS MON BLOODSTREAM")
+        print(entry)
     
 
 '''

@@ -141,7 +141,7 @@
         "start_date": "2023-06-01T09:00:00",
         "end_date": "2023-09-30T17:00:00",
         "description": "View powerful images of endangered species captured by National Geographic photographer Joel Sartore",
-        "tags": "Photography exhibition"
+        "tags": "Photography Exhibition"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "start_date": "2023-02-01T10:00:00",
         "end_date": "2023-05-31T17:00:00",
         "description": "Celebrate the 100th anniversary of Ansel Adams' birth with this retrospective of his iconic black-and-white photographs",
-        "tags": "Photography exhibition"
+        "tags": "Photography Exhibition"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "start_date": "2023-07-01T10:00:00",
         "end_date": "2023-10-31T17:00:00",
         "description": "See the creative process behind some of the most iconic photographs of the 20th century through the original contact sheets from Magnum photographers",
-        "tags": "Photography exhibition"
+        "tags": "Photography Exhibition"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "start_date": "2023-09-01T10:00:00",
         "end_date": "2023-12-31T17:00:00",
         "description": "Discover the work of female photographers from the 19th century to the present, highlighting their contributions to the medium",
-        "tags": "Photography exhibition"
+        "tags": "Photography Exhibition"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "start_date": "2023-04-01T10:00:00",
         "end_date": "2023-07-31T17:00:00",
         "description": "Explore the dynamic world of contemporary street photography, featuring works by established and emerging photographers",
-        "tags": "Photography exhibition"
+        "tags": "Photography Exhibition"
     },
     {
         "id": 21,

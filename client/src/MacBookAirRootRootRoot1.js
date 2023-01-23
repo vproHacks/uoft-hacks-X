@@ -39,12 +39,7 @@ export const MacBookAirRootRootRoot1 = ({ event1, event2, event3, event4, date1,
   const random = (e) => {
     if (e.key === "Enter") {
         // Prompt API for response
-        console.log(e);
-        axios.post(joinURL(baseURL, "cohere"), {prompt: `${inputValue}`}).then(response => {
-            console.log(response);
-            setRevent1("Got a response!");
-            setRdate1(response.data.normal[0][1]);
-        });
+        window.open(joinURL(baseURL, "zesty", encodeURIComponent(inputValue)));
     }
   };
 

@@ -53,7 +53,7 @@ def insert_from_dict(d):
 
 def query_from_tag(query, num):
     res = conn.execute("SELECT * FROM events WHERE tags=?", [query])
-    results = res.fetchmany(num)
+    results = res.fetchall()[:num]
     return results
 
 
@@ -127,6 +127,28 @@ def cohere_test():
         reccs = normal_reccs + abnormal_reccs
         return render_template('cohere.html', reccs = normal_reccs + abnormal_reccs)
     return '...'
+
+
+@app.route('/zesty/<string:prompt>', methods=['POST', 'GET'])
+def zesty(prompt):
+    response = co.classify(
+        inputs = [prompt],
+        model = COHERE_MODEL)
+    resp = response.classifications[0]
+    result = resp.prediction
+    # 2 closest recommendations to include alongside base events
+    closest = sorted(resp.labels.items(), key = lambda x: x[1].confidence, reverse = True)[1:3]
+    # assume that it got it right, or else we're fucked
+    # query 3 related to the tag needed
+    print(closest)
+    normal_reccs = query_from_tag(result, 3)
+    abnormal_reccs = []
+    for i in range(2):
+        try: abnormal_reccs.append(query_from_tag(closest[i][0], 1)[0])
+        except: continue
+    reccs = normal_reccs + abnormal_reccs
+    return render_template('cohere.html', reccs = normal_reccs + abnormal_reccs)
+
 
 @app.route('/get-events', methods=['POST', 'GET'])
 def get_events():
